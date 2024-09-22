@@ -1,0 +1,72 @@
+Starting preprocessing of the model file ...
+Found 32 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+
+STEADY-STATE RESULTS:
+
+NTY   		 0.913311
+NY    		 0.67149
+NC    		 0.554885
+NQ    		 2.26168
+NOY   		 0.025819
+NR    		 1.0101
+G     		 0
+NCY   		 0.784685
+NOC   		 0.0245343
+NPI   		 1
+NPIY  		 1
+DD    		 4.69958
+NN    		 4.69958
+NMC   		 0.869622
+DELTA 		 1
+NWP   		 0.544929
+NA    		 1
+NL    		 0.964435
+NO    		 0.0351663
+NX    		 0.0151869
+NZ    		 1
+NETA  		 0.536561
+Z     		 0
+OMEGA 		 0
+A     		 0
+ERR   		 0
+WELF  		 -122.041
+NPE   		 0.0443685
+RER   		 12.5063
+TPE   		 0.35477
+OBJQ  		 0
+MRKQ  		 1
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0                0                0
+       7.191e-17        7.191e-17                0
+             0.5              0.5                0
+             0.5              0.5                0
+             0.5              0.5                0
+             0.5              0.5                0
+            0.75             0.75                0
+            0.95             0.95                0
+            1.01             1.01                0
+            1.01             1.01                0
+           1.091            1.065           0.2356
+           1.091            1.065          -0.2356
+           1.347            1.347                0
+       1.335e+17        1.335e+17                0
+       1.589e+18        1.589e+18                0
+       3.665e+19        3.665e+19                0
+
+
+There are 8 eigenvalue(s) larger than 1 in modulus 
+for 8 forward-looking variable(s)
+
+The rank condition is verified.
+
+MODEL_DIAGNOSTICS:  No obvious problems with this mod-file were detected.
+Total computing time : 0h00m01s

@@ -1,0 +1,60 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Manuscript.aux
+Reallocating 'name_of_file' (item size: 1) to 5 items.
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+The style file: aea.bst
+Database file #1: cbdc.bib
+Warning--there's a number but no volume in akinci2018exchange
+Warning--empty journal in asimakopoulos2019new
+Warning--empty journal in athey2016bitcoin
+Warning--empty journal in barrdear2016macroeconomics
+Warning--empty journal in benigno2019monetary
+Warning--empty journal in cukierman2019welfare
+Warning--empty journal in imffintech
+Warning--empty journal in keister2020discussion
+Warning--empty journal in kumhof2018central
+Warning--empty publisher in miranda2020global
+Warning--empty journal in woodford2003interest
+You've used 43 entries,
+            2695 wiz_defined-function locations,
+            792 strings with 10294 characters,
+and the built_in function-call counts, 277205 in all, are:
+= -- 46592
+> -- 3022
+< -- 2
++ -- 22730
+- -- 950
+* -- 24839
+:= -- 54000
+add.period$ -- 292
+call.type$ -- 43
+change.case$ -- 559
+chr.to.int$ -- 40
+cite$ -- 54
+duplicate$ -- 617
+empty$ -- 1608
+format.name$ -- 977
+if$ -- 49867
+int.to.chr$ -- 8
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 136
+num.names$ -- 473
+pop$ -- 48
+preamble$ -- 1
+purify$ -- 645
+quote$ -- 0
+skip$ -- 562
+stack$ -- 0
+substring$ -- 66845
+swap$ -- 264
+text.length$ -- 604
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 170
+warning$ -- 11
+while$ -- 1037
+width$ -- 0
+write$ -- 209
+(There were 11 warnings)

@@ -1,0 +1,270 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 47 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+STEADY-STATE RESULTS:
+
+mc       		 0.888889
+Pi       		 1
+Z        		 0.0402094
+w        		 4.7352
+R        		 1.015
+epsilon  		 1.233
+Q        		 1
+Y        		 2.22037
+M        		 0.288126
+L        		 0.21674
+C        		 1.52721
+I        		 0.294508
+K        		 14.7254
+EX       		 0.382961
+N        		 2.72686
+K_b      		 10.889
+K_h      		 3.83639
+D        		 5.62489
+D_star   		 2.06254
+x        		 0.233549
+psi      		 1.56433
+phi      		 3.99325
+upsilon  		 1.53047
+mu       		 0.00785499
+mu_star  		 0.00619364
+A        		 1
+R_star   		 1.01089
+Y_star   		 0.310592
+Phi      		 0
+Theta    		 0.391743
+chi_h    		 0.00984496
+chi_b    		 0.00585034
+Ynet     		 1.84942
+P_c      		 1
+R_dc     		 1
+c_sup    		 0
+cryp     		 1.13088
+DC       		 1.54106
+m        		 1.53049
+R_c      		 1
+Lambda   		 0.985222
+eps_e    		 1
+v_e      		 1
+gam      		 0.038106
+trs      		 0.49828
+Lambda1  		 1.28206
+sigma_Rc 		 0
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+       1.395e-15       -1.395e-15                0
+          0.4389           0.4389                0
+             0.9              0.9                0
+             0.9              0.9                0
+             0.9              0.9                0
+             0.9              0.9                0
+             0.9              0.9                0
+          0.9347           0.9347                0
+            0.95             0.95                0
+          0.9765           0.9765                0
+          0.9837           0.9837                0
+           1.024            1.024                0
+           1.042            1.042                0
+           1.072            1.072                0
+            1.09             1.09                0
+           1.636            1.636                0
+             Inf              Inf                0
+             Inf              Inf                0
+             Inf              Inf                0
+
+
+There are 8 eigenvalue(s) larger than 1 in modulus 
+for 8 forward-looking variable(s)
+
+The rank condition is verified.
+
+MODEL_DIAGNOSTICS:  The Jacobian of the static model is singular
+MODEL_DIAGNOSTICS:  there is 2 colinear relationships between the variables and the equations
+Relation 1
+Colinear variables:
+Z
+w
+epsilon
+Y
+M
+L
+C
+I
+K
+EX
+N
+K_b
+K_h
+D
+D_star
+x
+psi
+phi
+upsilon
+mu
+mu_star
+R_star
+Y_star
+Theta
+chi_h
+chi_b
+Ynet
+cryp
+DC
+m
+gam
+trs
+Lambda1
+Relation 2
+Colinear variables:
+Z
+w
+epsilon
+Y
+M
+L
+C
+I
+K
+EX
+N
+K_b
+K_h
+D
+D_star
+x
+psi
+phi
+upsilon
+mu
+mu_star
+R_star
+Y_star
+Theta
+chi_h
+chi_b
+Ynet
+cryp
+DC
+m
+gam
+Lambda1
+Relation 1
+Colinear equations
+    46
+
+Relation 2
+Colinear equations
+    45
+
+MODEL_DIAGNOSTICS:  The presence of a singularity problem typically indicates that there is one
+MODEL_DIAGNOSTICS:  redundant equation entered in the model block, while another non-redundant equation
+MODEL_DIAGNOSTICS:  is missing. The problem often derives from Walras Law.
+
+MODEL SUMMARY
+
+  Number of variables:         47
+  Number of stochastic shocks: 6
+  Number of state variables:   11
+  Number of jumpers:           8
+  Number of static variables:  28
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables               varepsilon_R      varepsilon_A  varepsilon_Rstar  varepsilon_Ystar            eps_Rc               vol
+varepsilon_R                0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+varepsilon_A                0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+varepsilon_Rstar            0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+varepsilon_Ystar            0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+eps_Rc                      0.000000          0.000000          0.000000          0.000000          1.000000          0.000000
+vol                         0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+
+POLICY AND TRANSITION FUNCTIONS
+                                Ynet               C               I              EX               M          D_star         epsilon               Q               N              Pi               R             R_c             P_c            cryp              DC               m
+Constant                    1.849419        1.527210        0.294508        0.382961        0.288126        2.062543        1.233003        1.000000        2.726857        1.000000        1.015000        1.000000        1.000000        1.130883        1.541059        1.530494
+R(-1)                      -7.366013       -8.468215       -1.205117       -0.719282       -1.913498       -1.913498       -2.315843       -2.727978      -38.311174       -1.209713        0.437086               0               0       -1.639190       -8.504888       -8.527750
+K(-1)                       0.035186        0.038112       -0.011291        0.012047       -0.006077       -0.006077        0.038786       -0.025559       -0.377078       -0.004430       -0.001329               0               0        0.006715        0.038296        0.038359
+K_b(-1)                     0.019627        0.006804        0.015595       -0.001980        0.002132        0.002132       -0.006374        0.035301        1.328148       -0.000123       -0.000037               0               0        0.000489        0.006858        0.006826
+D(-1)                      -0.019527       -0.006769       -0.015515        0.001969       -0.002121       -0.002121        0.006341       -0.035121       -1.321366        0.000123        0.000037               0               0       -0.000487       -0.006823       -0.006791
+D_star(-1)                 -0.071619       -0.073259       -0.033694        0.031672       -0.026799        0.984094        0.101974       -0.076272       -2.119137        0.004970        0.001491               0               0       -0.009777       -0.073708       -0.073638
+A(-1)                       1.552130        0.773456        0.388422        0.347327       -0.296130       -0.296130        1.118275        0.879255        5.060220       -0.293455       -0.088036               0               0        0.364443        0.770377        0.785514
+R_star(-1)                 -0.252425       -0.440449       -1.228763        2.545961       -0.999698        1.062845        8.197126       -2.781502      -40.098301        0.954589        0.286377               0               0       -1.190382       -0.409274       -0.477621
+Y_star(-1)                  1.292961        0.791380        0.048928        0.819605        0.515868       -0.384132       -0.934014        0.110755        3.954201        0.107622        0.032287               0               0       -0.111300        0.802725        0.788789
+eps_e(-1)                          0               0               0               0               0               0               0               0               0               0               0        0.007313       -0.073134        0.108993               0               0
+v_e(-1)                            0               0               0               0               0               0               0               0               0               0               0        0.007313       -0.073134        0.108993               0               0
+sigma_Rc(-1)                       0               0               0               0               0               0               0               0               0               0               0        0.047500       -0.950000        1.245076               0               0
+varepsilon_R               -9.072251      -10.538377       -1.398921       -0.912745       -2.377179       -2.377179       -2.938728       -3.166682      -38.735591       -1.512991        0.546103               0               0       -2.045615      -10.583844      -10.612642
+varepsilon_A                1.724588        0.859395        0.431580        0.385919       -0.329033       -0.329033        1.242528        0.976950        5.622467       -0.326061       -0.097818               0               0        0.404937        0.855975        0.872794
+varepsilon_Rstar           -0.118110       -0.323309       -1.288907        2.757043       -1.050023       -1.050023        8.876740       -2.917648      -39.749541        1.049388        0.314817               0               0       -1.300481       -0.287652       -0.363752
+varepsilon_Ystar            1.436623        0.879312        0.054364        0.910672        0.573186       -0.426814       -1.037793        0.123062        4.393557        0.119580        0.035874               0               0       -0.123666        0.891917        0.876432
+eps_Rc                             0               0               0               0               0               0               0               0               0               0               0        0.001500       -0.030000        0.039318               0               0
+vol                                0               0               0               0               0               0               0               0               0               0               0        1.008126       -0.081259        3.715572               0               0
+
+
+THEORETICAL MOMENTS
+VARIABLE         MEAN  STD. DEV.   VARIANCE
+Ynet           1.8494     0.0000     0.0000
+C              1.5272     0.0000     0.0000
+I              0.2945     0.0000     0.0000
+EX             0.3830     0.0000     0.0000
+M              0.2881     0.0000     0.0000
+D_star         2.0625     0.0000     0.0000
+epsilon        1.2330     0.0000     0.0000
+Q              1.0000     0.0000     0.0000
+N              2.7269     0.0000     0.0000
+Pi             1.0000     0.0000     0.0000
+R              1.0150     0.0000     0.0000
+R_c            1.0000     0.0048     0.0000
+P_c            1.0000     0.0961     0.0092
+cryp           1.1309     0.1259     0.0159
+DC             1.5411     0.0000     0.0000
+m              1.5305     0.0000     0.0000
+
+
+
+VARIANCE DECOMPOSITION (in percent)
+               varepsilon_R      varepsilon_A  varepsilon_Rstar  varepsilon_Ystar            eps_Rc               vol
+Ynet                  34.43             16.62             44.46              4.50              0.00              0.00
+C                     36.97              9.30             50.82              2.91              0.00              0.00
+I                     16.53              7.78             75.21              0.48              0.00              0.00
+EX                     5.53              4.60             80.26              9.61              0.00              0.00
+M                     23.63              0.43             68.37              7.57              0.00              0.00
+D_star                45.82              0.16              0.60             53.42              0.00              0.00
+epsilon                5.84              4.86             84.84              4.46              0.00              0.00
+Q                     16.53              7.78             75.21              0.48              0.00              0.00
+N                     42.93              1.21             55.02              0.84              0.00              0.00
+Pi                    58.41              3.64             37.48              0.48              0.00              0.00
+R                     16.25              7.37             75.49              0.89              0.00              0.00
+R_c                    0.00              0.00              0.00              0.00            100.00              0.00
+P_c                    0.00              0.00              0.00              0.00            100.00              0.00
+cryp                   0.00              0.00              0.00              0.00            100.00              0.00
+DC                    37.16              9.30             50.58              2.95              0.00              0.00
+m                     36.76              9.30             51.07              2.87              0.00              0.00
+
+
+
+MATRIX OF CORRELATIONS
+Variables        R_c      P_c     cryp
+R_c           1.0000  -1.0000   1.0000
+P_c          -1.0000   1.0000  -1.0000
+cryp          1.0000  -1.0000   1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION
+Order          1       2       3       4       5
+R_c       0.9500  0.9025  0.8574  0.8145  0.7738
+P_c       0.9500  0.9025  0.8574  0.8145  0.7738
+cryp      0.9500  0.9025  0.8574  0.8145  0.7738
+Total computing time : 0h00m01s

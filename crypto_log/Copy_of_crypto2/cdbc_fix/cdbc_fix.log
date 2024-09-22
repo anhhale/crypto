@@ -1,0 +1,87 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 68 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : -0.00014892 : 1
+Equation number 2 : 0 : Lambda
+Equation number 3 : 0.00012428 : Omega
+Equation number 4 : 0 : investment cost of adjustment
+Equation number 5 : -0.0013186 : extra management cost of buying equity
+Equation number 6 : -0.0013571 : cost of borrowing from foreigners
+Equation number 7 : 0 : fraction of assets diverted
+Equation number 8 : 0.00035049 : marginal cost, eq. (2)
+Equation number 9 : 0 : FOC wrt P_{i,t}, eq. (3)
+Equation number 10 : 0.0013313 : domestic output, eq. (4)
+Equation number 11 : -0.0041337 : import to capital share ratio, eq. (5)
+Equation number 12 : 0.0008943 : wage to capital share ratio, eq. (6)
+Equation number 13 : 0.00094501 : law of motion of capital, eq. (7)
+Equation number 14 : -3.1255e-05 : exports, eq. (8)
+Equation number 15 : 0 : 15
+Equation number 16 : 0 : 16
+Equation number 17 : 0 : R_dc
+Equation number 18 : 0 : R_c
+Equation number 19 : 0 : sigma_Rc
+Equation number 20 : -0.0002716 : C
+Equation number 21 : -2.6092e-06 : trs
+Equation number 22 : 0.00018209 : FOC wrt cbdc
+Equation number 23 : 0.00016039 : FOC wrt money
+Equation number 24 : 0.00053889 : FOC wrt crypto
+Equation number 25 : -0.00025981 : FOC wrt labour, eq. (9)
+Equation number 26 : 8.2189e-07 : FOC wrt savings in equity, eq. (10)
+Equation number 27 : 0 : FOC wrt savings in deposits, eq. (11)
+Equation number 28 : 0 : FOC wrt investment goods, eq. (12)
+Equation number 29 : -0.00050957 : excess return on capital over home deposits, eq. (17)
+Equation number 30 : 2.9919e-05 : cost advantage of crypto currency debt over home deposits, eq. (18)
+Equation number 31 : 0.0060667 : cost advantage of foreign currency debt over home deposits, eq. (18)
+Equation number 32 : 0.00014746 : marginal cost of deposit, eq. (19)
+Equation number 33 : 4.8258e-05 : bank leverage multiple, eq. (20)
+Equation number 34 : 0.00011339 : Tobin Q ratio of the bank, eq. (21)
+Equation number 35 : 7.7923e-05 : fraction of assets financed by foreign borrowing, eq. (22)
+Equation number 36 : -0.0010268 : output, eq. (23)
+Equation number 37 : 0.0060587 : law of motion of net foreign debt, eq. (24)
+Equation number 38 : 0.0032649 : aggregate net worth of banks, eq. (25)
+Equation number 39 : -6.1467e-05 : aggregate balance sheet of the bank, eq. (26)
+Equation number 40 : 0.0026047 : aggregate balance sheet of the bank, eq. (27)
+Equation number 41 : -0.00027235 : aggregate balance sheet of the bank, eq. (28)
+Equation number 42 : 5.2139e-06 : aggregate balance sheet of the bank, eq. (28)
+Equation number 43 : 6.9077e-05 : aggregate capital, eq. (29)
+Equation number 44 : 0 : 44
+Equation number 45 : 0 : Taylor rule, eq. (30)
+Equation number 46 : 0 : productivity
+Equation number 47 : 0 : foreign income
+Equation number 48 : 0 : foreign interest rate
+Equation number 49 : 0.00018634 : Net output, pg. 21
+Equation number 50 : 1.7459e-05 : logY
+Equation number 51 : 0 : logPi
+Equation number 52 : 0 : logR
+Equation number 53 : 1.66e-05 : logI
+Equation number 54 : 1.2362e-05 : logL
+Equation number 55 : 8.1791e-05 : logC
+Equation number 56 : 1.6274e-05 : logEX
+Equation number 57 : -2.4251e-05 : logM
+Equation number 58 : 0.00011714 : logD
+Equation number 59 : 0.00065301 : logD_star
+Equation number 60 : -1.5815e-06 : logN
+Equation number 61 : -8.9557e-06 : spread
+Equation number 62 : 8.7462e-05 : logDC
+Equation number 63 : 8.5489e-05 : logm
+Equation number 64 : -3.6053e-06 : leverage
+Equation number 65 : 0.00036413 : TB
+Equation number 66 : -1.9256e-05 : logcryp
+Equation number 67 : 0 : logRDC
+Equation number 68 : -7.2327e-05 : spread2
+
+

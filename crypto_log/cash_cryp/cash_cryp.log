@@ -1,0 +1,115 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+Found 66 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+ - order 2
+Processing outputs ...
+done
+Preprocessing completed.
+
+STEADY-STATE RESULTS:
+
+totutility1 		 -7.91199
+Y           		 3.0677
+C           		 2.07225
+Pi          		 1
+N           		 3.99486
+DC          		 0
+cryp        		 0.91979
+m           		 2.07225
+D_star      		 5.86328
+mc          		 0.888889
+Z           		 0.0395258
+w           		 5.13375
+R           		 1.015
+epsilon     		 1.00458
+Q           		 1
+M           		 0.488594
+L           		 0.276203
+I           		 0.413933
+K           		 20.6967
+EX          		 0.549733
+K_b         		 16.0121
+K_h         		 4.68454
+D           		 5.22868
+x           		 0.367854
+psi         		 1.60728
+phi         		 4.00818
+upsilon     		 1.57084
+mu          		 0.00700433
+mu_star     		 0.00773815
+A           		 1
+R_star      		 1.01
+Y_star      		 0.547227
+Phi         		 0
+Theta       		 0.401
+chi_h       		 0.0104441
+chi_b       		 0.0213421
+Ynet        		 2.54508
+P_c         		 1
+R_dc        		 1
+theta_c     		 1
+R_c         		 1
+Lambda      		 0.985222
+gam         		 0.0144364
+trs         		 1
+Lambda1     		 0.976863
+sigma_Rc    		 0
+mu_cryp     		 0.0232145
+x_c         		 0.0574434
+DE          		 1
+utility     		 -0.116926
+logY        		 1.12093
+logPi       		 0
+logR        		 0.0148886
+logI        		 -0.882051
+logL        		 -1.28662
+logC        		 0.728633
+logEX       		 -0.598322
+logM        		 -0.716223
+logD        		 1.65416
+logD_star   		 1.76871
+logN        		 1.38501
+spread      		 0.00452584
+logm        		 0.728633
+leverage    		 1.38834
+TB          		 0.0611389
+logcryp     		 -0.0836094
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+       1.237e-15        1.237e-15                0
+       1.757e-15        1.757e-15                0
+       4.473e-14       -4.473e-14                0
+       2.976e-09       -2.976e-09                0
+       2.976e-09        2.976e-09                0
+          0.4588           0.4588                0
+             0.9              0.9                0
+             0.9              0.9                0
+          0.9352           0.9352                0
+            0.95             0.95                0
+            0.95             0.95                0
+            0.95             0.95                0
+          0.9758           0.9758                0
+          0.9848           0.9848                0
+           1.015            1.015                0
+           1.023            1.023                0
+           1.042            1.042                0
+           1.072            1.072                0
+           1.179            1.179                0
+           1.558            1.558                0
+       5.729e+16       -5.729e+16                0
+       1.862e+18       -1.862e+18                0
+
+
+There are 8 eigenvalue(s) larger than 1 in modulus 
+for 8 forward-looking variable(s)
+
+The rank condition is verified.
+
+Total computing time : 0h00m03s

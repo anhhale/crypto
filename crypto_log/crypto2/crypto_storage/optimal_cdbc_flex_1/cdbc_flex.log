@@ -1,0 +1,308 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 65 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+STEADY-STATE RESULTS:
+
+mc        		 0.888889
+Pi        		 1
+Z         		 0.0397052
+w         		 5.04516
+R         		 1.015
+epsilon   		 1.04845
+Q         		 1
+Y         		 2.86138
+M         		 0.436666
+L         		 0.262151
+C         		 1.94489
+I         		 0.38435
+K         		 19.2175
+EX        		 0.50822
+N         		 3.6833
+K_b       		 14.6954
+K_h       		 4.52211
+D         		 5.62953
+D_star    		 4.2711
+x         		 0.304722
+psi       		 1.59989
+phi       		 3.98974
+upsilon   		 1.56389
+mu        		 0.00724965
+mu_star   		 0.0057705
+A         		 1
+R_star    		 1.01125
+Y_star    		 0.484737
+Phi       		 0
+Theta     		 0.401
+chi_h     		 0.0104814
+chi_b     		 0.0134408
+Ynet      		 2.37964
+P_c       		 1
+R_dc      		 1
+theta_c   		 1
+cryp      		 0.918001
+DC        		 2.05751
+m         		 2.02547
+R_c       		 1
+Lambda    		 0.985222
+gam       		 0.0315772
+trs       		 0.496077
+Lambda1   		 1.0178
+sigma_Rc  		 0
+mu_cryp   		 0.0231117
+x_c       		 0.0624686
+DE        		 1
+logY      		 1.0513
+logPi     		 0
+logR      		 0.0148886
+logI      		 -0.956202
+logL      		 -1.33884
+logC      		 0.665204
+logEX     		 -0.676841
+logM      		 -0.828586
+logD      		 1.72803
+logD_star 		 1.45187
+logN      		 1.30381
+spread    		 0.00470518
+logDC     		 0.721498
+logm      		 0.705804
+leverage  		 1.38373
+TB        		 0.0715536
+logcryp   		 -0.0855572
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+       3.659e-17        3.659e-17                0
+       2.704e-16       -2.704e-16                0
+        3.23e-16        -3.23e-16                0
+       2.334e-08        2.334e-08                0
+       2.334e-08       -2.334e-08                0
+           0.147            0.147                0
+          0.3155           0.3155                0
+             0.9              0.9                0
+             0.9              0.9                0
+          0.9361           0.9361                0
+            0.95             0.95                0
+            0.95             0.95                0
+            0.95             0.95                0
+          0.9762           0.9762                0
+          0.9835           0.9835                0
+           1.025            1.025                0
+           1.041            1.041                0
+           1.071            1.071                0
+           1.179            1.179                0
+           1.588            1.588                0
+       1.841e+18       -1.841e+18                0
+             Inf              Inf                0
+
+
+There are 7 eigenvalue(s) larger than 1 in modulus 
+for 7 forward-looking variable(s)
+
+The rank condition is verified.
+
+MODEL_DIAGNOSTICS:  The Jacobian of the static model is singular
+MODEL_DIAGNOSTICS:  there is 2 colinear relationships between the variables and the equations
+Relation 1
+Colinear variables:
+Z
+w
+epsilon
+Y
+M
+L
+C
+I
+K
+EX
+N
+K_b
+K_h
+D
+D_star
+x
+psi
+phi
+upsilon
+mu
+mu_star
+R_star
+Y_star
+chi_h
+chi_b
+Ynet
+cryp
+DC
+m
+gam
+trs
+Lambda1
+mu_cryp
+x_c
+logY
+logI
+logL
+logC
+logEX
+logM
+logD
+logD_star
+logN
+spread
+logDC
+logm
+leverage
+TB
+logcryp
+Relation 2
+Colinear variables:
+Z
+w
+epsilon
+Y
+M
+L
+C
+I
+K
+EX
+N
+K_b
+K_h
+D
+D_star
+x
+psi
+phi
+upsilon
+mu
+mu_star
+R_star
+Y_star
+chi_h
+chi_b
+Ynet
+cryp
+DC
+m
+gam
+trs
+Lambda1
+mu_cryp
+x_c
+logY
+logI
+logL
+logC
+logEX
+logM
+logD
+logD_star
+logN
+spread
+logDC
+logm
+leverage
+TB
+logcryp
+Relation 1
+Colinear equations
+    46
+
+Relation 2
+Colinear equations
+    47
+
+MODEL_DIAGNOSTICS:  The presence of a singularity problem typically indicates that there is one
+MODEL_DIAGNOSTICS:  redundant equation entered in the model block, while another non-redundant equation
+MODEL_DIAGNOSTICS:  is missing. The problem often derives from Walras Law.
+
+MODEL SUMMARY
+
+  Number of variables:         65
+  Number of stochastic shocks: 6
+  Number of state variables:   15
+  Number of jumpers:           7
+  Number of static variables:  44
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables               varepsilon_R      varepsilon_A  varepsilon_Rstar  varepsilon_Ystar            eps_Rc               vol
+varepsilon_R                0.000006          0.000000          0.000000          0.000000          0.000000          0.000000
+varepsilon_A                0.000000          0.000100          0.000000          0.000000          0.000000          0.000000
+varepsilon_Rstar            0.000000          0.000000          0.000006          0.000000          0.000000          0.000000
+varepsilon_Ystar            0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+eps_Rc                      0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+vol                         0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+
+POLICY AND TRANSITION FUNCTIONS
+                                   Y              Pi               C         epsilon               I
+Constant                    2.861379        1.000000        1.944887        1.048445        0.384350
+R(-1)                     -15.957370       -1.264057      -14.521347       -1.483887       -1.046673
+K(-1)                       0.017474       -0.004779        0.011478        0.022102       -0.012352
+K_b(-1)                     0.006317        0.000492        0.006887        0.000458        0.014242
+D(-1)                      -0.006288       -0.000489       -0.006855       -0.000456       -0.014176
+D_star(-1)                 -0.093297       -0.002124       -0.110942        0.044203       -0.032476
+A(-1)                       1.754585       -0.244533        0.624094        1.201336        0.559686
+R_star(-1)                 -3.055006        0.552317       -4.754412        6.308047       -2.347632
+Y_star(-1)                  2.173713        0.114931        1.488348       -0.515901        0.057058
+P_c(-1)                    -0.027629       -0.001546       -0.019111       -0.018704        0.014375
+R_dc(-1)                    0.204198        0.006507        0.212807       -0.006481       -0.005068
+theta_c(-1)                -0.006808       -0.000236       -0.005286       -0.001540        0.000157
+cryp(-1)                   -0.006195       -0.000482       -0.006754       -0.000449       -0.013967
+R_c(-1)                    -0.005687       -0.000443       -0.006200       -0.000412       -0.012822
+epsilon(-1)                 1.156093        0.091583        1.051598        0.107558        0.070287
+varepsilon_R              -20.201668       -1.600329      -18.375720       -1.879472       -1.228209
+varepsilon_A                1.846931       -0.257403        0.656941        1.264565        0.589143
+varepsilon_Rstar           -2.956625        0.623655       -4.762046        6.801506       -2.456073
+varepsilon_Ystar            2.415236        0.127701        1.653720       -0.573224        0.063398
+vol                        -0.007166       -0.000248       -0.005564       -0.001621        0.000165
+
+
+THEORETICAL MOMENTS
+VARIABLE         MEAN  STD. DEV.   VARIANCE
+Y              2.8614     0.1852     0.0343
+Pi             1.0000     0.0058     0.0000
+C              1.9449     0.1435     0.0206
+epsilon        1.0484     0.0684     0.0047
+I              0.3844     0.0260     0.0007
+
+
+
+VARIANCE DECOMPOSITION (in percent)
+               varepsilon_R      varepsilon_A  varepsilon_Rstar  varepsilon_Ystar            eps_Rc               vol
+Y                      8.70             83.60              7.71              0.00              0.00              0.00
+Pi                    54.90             25.70             19.40              0.00              0.00              0.00
+C                     12.05             71.64             16.31              0.00              0.00              0.00
+epsilon                1.44             69.97             28.58              0.00              0.00              0.00
+I                      2.07             63.99             33.95              0.00              0.00              0.00
+
+
+
+MATRIX OF CORRELATIONS
+Variables          Y       Pi        C  epsilon        I
+Y             1.0000  -0.0964   0.9860   0.6666   0.8634
+Pi           -0.0964   1.0000  -0.0729   0.0460  -0.4071
+C             0.9860  -0.0729   1.0000   0.5419   0.8789
+epsilon       0.6666   0.0460   0.5419   1.0000   0.3323
+I             0.8634  -0.4071   0.8789   0.3323   1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION
+Order           1       2       3       4       5
+Y          0.9345  0.8862  0.8478  0.8141  0.7828
+Pi         0.4757  0.2686  0.1901  0.1570  0.1396
+C          0.9127  0.8552  0.8140  0.7799  0.7492
+epsilon    0.9466  0.8968  0.8505  0.8075  0.7674
+I          0.9348  0.8701  0.8088  0.7515  0.6983
+Total computing time : 0h00m00s

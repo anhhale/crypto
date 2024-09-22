@@ -1,0 +1,367 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 64 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0 : Lambda1
+Equation number 2 : 0 : Lambda
+Equation number 3 : 0 : Omega
+Equation number 4 : 0 : investment cost of adjustment
+Equation number 5 : 0 : extra management cost of buying equity
+Equation number 6 : 0 : cost of borrowing from foreigners
+Equation number 7 : 0 : fraction of assets diverted
+Equation number 8 : 0 : marginal cost, eq. (2)
+Equation number 9 : 0 : FOC wrt P_{i,t}, eq. (3)
+Equation number 10 : 0 : domestic output, eq. (4)
+Equation number 11 : 0 : import to capital share ratio, eq. (5)
+Equation number 12 : 0 : wage to capital share ratio, eq. (6)
+Equation number 13 : 0 : law of motion of capital, eq. (7)
+Equation number 14 : 0 : exports, eq. (8)
+Equation number 15 : 0 : 15
+Equation number 16 : 0 : 16
+Equation number 17 : 0 : R_dc
+Equation number 18 : 0 : R_c
+Equation number 19 : 0 : sigma_Rc
+Equation number 20 : 0 : FOC wrt cbdc
+Equation number 21 : 0 : FOC wrt money
+Equation number 22 : 0 : FOC wrt crypto
+Equation number 23 : 0 : FOC wrt labour, eq. (9)
+Equation number 24 : 0 : FOC wrt savings in equity, eq. (10)
+Equation number 25 : 0 : FOC wrt savings in deposits, eq. (11)
+Equation number 26 : 0 : FOC wrt investment goods, eq. (12)
+Equation number 27 : 0 : excess return on capital over home deposits, eq. (17)
+Equation number 28 : 0 : cost advantage of crypto currency debt over home deposits, eq. (18)
+Equation number 29 : 0 : cost advantage of foreign currency debt over home deposits, eq. (18)
+Equation number 30 : 0 : marginal cost of deposit, eq. (19)
+Equation number 31 : -0.011134 : bank leverage multiple, eq. (20)
+Equation number 32 : 0 : Tobin Q ratio of the bank, eq. (21)
+Equation number 33 : 0 : fraction of assets financed by foreign borrowing, eq. (22)
+Equation number 34 : 0 : output, eq. (23)
+Equation number 35 : 0 : law of motion of net foreign debt, eq. (24)
+Equation number 36 : 0 : aggregate net worth of banks, eq. (25)
+Equation number 37 : 0 : aggregate balance sheet of the bank, eq. (26)
+Equation number 38 : 0 : aggregate balance sheet of the bank, eq. (27)
+Equation number 39 : 0 : aggregate balance sheet of the bank, eq. (28)
+Equation number 40 : 0 : aggregate balance sheet of the bank, eq. (28)
+Equation number 41 : 0 : aggregate capital, eq. (29)
+Equation number 42 : 0 : 42
+Equation number 43 : 0 : Taylor rule, eq. (30)
+Equation number 44 : 0 : productivity
+Equation number 45 : 0 : foreign income
+Equation number 46 : 0 : foreign interest rate
+Equation number 47 : 0 : spread2
+Equation number 48 : 0 : Net output, pg. 21
+Equation number 49 : 0 : logY
+Equation number 50 : 0 : logPi
+Equation number 51 : 0 : logR
+Equation number 52 : 0 : logI
+Equation number 53 : 0 : logL
+Equation number 54 : 0 : logC
+Equation number 55 : 0 : logEX
+Equation number 56 : 0 : logM
+Equation number 57 : 0 : logD
+Equation number 58 : 0 : logD_star
+Equation number 59 : 0 : logN
+Equation number 60 : 0 : spread
+Equation number 61 : 0 : logm
+Equation number 62 : 0 : leverage
+Equation number 63 : 0 : TB
+Equation number 64 : 0 : logcryp
+
+
+
+STEADY-STATE RESULTS:
+
+mc        		 0.888889
+Pi        		 1
+Z         		 0.039924
+w         		 5.08086
+R         		 1.015
+epsilon   		 1.01794
+Q         		 1
+Y         		 2.94323
+M         		 0.46262
+L         		 0.267755
+C         		 2.00247
+I         		 0.393178
+K         		 19.6589
+EX        		 0.522181
+N         		 3.51672
+K_b       		 14.8178
+K_h       		 4.84113
+D         		 5.86291
+D_star    		 4.45393
+x         		 0.305971
+psi       		 1.68962
+phi       		 4.21352
+upsilon   		 1.64824
+mu        		 0.00799605
+mu_star   		 0.00599715
+A         		 1
+R_star    		 1.01131
+Y_star    		 0.51298
+Phi       		 0
+Theta     		 0.401
+chi_h     		 0.0117428
+chi_b     		 0.0136641
+Ynet      		 2.44691
+P_c       		 1
+R_dc      		 1
+theta_c   		 1
+cryp      		 0.917985
+DC        		 0
+m         		 1.39082
+R_c       		 1
+Lambda    		 0.985222
+Lambda1   		 1.01818
+sigma_Rc  		 0
+mu_cryp   		 0.0243583
+x_c       		 0.0619516
+DE        		 1
+logY      		 1.07951
+logPi     		 0
+logR      		 0.0148886
+logI      		 -0.933493
+logL      		 -1.31768
+logC      		 0.69438
+logEX     		 -0.649742
+logM      		 -0.77085
+logD      		 1.76865
+logD_star 		 1.49379
+logN      		 1.25753
+spread    		 -5.31363
+logm      		 0.32989
+leverage  		 1.4383
+TB        		 -2.82075
+logcryp   		 -0.0855746
+spread2   		 -4.82881
+Omega     		 1.62389
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+         1.1e-16         -1.1e-16                0
+       4.042e-16       -4.042e-16                0
+       1.577e-15        1.577e-15                0
+       2.337e-08       -2.337e-08                0
+       2.337e-08        2.337e-08                0
+          0.4687           0.4687                0
+             0.9              0.9                0
+             0.9              0.9                0
+          0.9367           0.9367                0
+            0.95             0.95                0
+            0.95             0.95                0
+            0.95             0.95                0
+          0.9754           0.9754                0
+          0.9849           0.9849                0
+           1.025            1.025                0
+           1.041            1.041                0
+            1.07             1.07                0
+           1.209            1.209                0
+           1.485            1.485                0
+       3.338e+16       -3.338e+16                0
+             Inf              Inf                0
+
+
+There are 7 eigenvalue(s) larger than 1 in modulus 
+for 7 forward-looking variable(s)
+
+The rank condition is verified.
+
+MODEL_DIAGNOSTICS:  The Jacobian of the static model is singular
+MODEL_DIAGNOSTICS:  there is 2 colinear relationships between the variables and the equations
+Relation 1
+Colinear variables:
+Z
+w
+epsilon
+Y
+M
+L
+C
+I
+K
+EX
+N
+K_b
+K_h
+D
+D_star
+x
+psi
+phi
+upsilon
+mu
+mu_star
+R_star
+Y_star
+chi_h
+chi_b
+Ynet
+cryp
+m
+Lambda1
+mu_cryp
+x_c
+logY
+logI
+logL
+logC
+logEX
+logM
+logD
+logD_star
+logN
+spread
+logm
+leverage
+TB
+logcryp
+spread2
+Omega
+Relation 2
+Colinear variables:
+Z
+w
+epsilon
+Y
+M
+L
+C
+I
+K
+EX
+N
+K_b
+K_h
+D
+D_star
+x
+psi
+phi
+upsilon
+mu
+mu_star
+R_star
+Y_star
+chi_h
+chi_b
+Ynet
+cryp
+m
+Lambda1
+mu_cryp
+x_c
+logY
+logI
+logL
+logC
+logEX
+logM
+logD
+logD_star
+logN
+spread
+logm
+leverage
+TB
+logcryp
+spread2
+Omega
+Relation 1
+Colinear equations
+    45    46
+Relation 2
+Colinear equations
+    45    46
+MODEL_DIAGNOSTICS:  The presence of a singularity problem typically indicates that there is one
+MODEL_DIAGNOSTICS:  redundant equation entered in the model block, while another non-redundant equation
+MODEL_DIAGNOSTICS:  is missing. The problem often derives from Walras Law.
+
+MODEL SUMMARY
+
+  Number of variables:         64
+  Number of stochastic shocks: 6
+  Number of state variables:   14
+  Number of jumpers:           7
+  Number of static variables:  44
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables               varepsilon_R      varepsilon_A  varepsilon_Rstar  varepsilon_Ystar            eps_Rc               vol
+varepsilon_R                0.000006          0.000000          0.000000          0.000000          0.000000          0.000000
+varepsilon_A                0.000000          0.000100          0.000000          0.000000          0.000000          0.000000
+varepsilon_Rstar            0.000000          0.000000          0.000006          0.000000          0.000000          0.000000
+varepsilon_Ystar            0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+eps_Rc                      0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+vol                         0.000000          0.000000          0.000000          0.000000          0.000000          0.000000
+
+POLICY AND TRANSITION FUNCTIONS
+                                logY           logPi            logR       logD_star
+Constant                    1.079509               0        0.014889        1.493786
+R(-1)                      -3.296686       -0.970720        0.334525       -0.477324
+K(-1)                       0.012267       -0.003987       -0.000186       -0.002025
+K_b(-1)                     0.001707        0.000445        0.000180        0.000288
+D(-1)                      -0.001698       -0.000443       -0.000179       -0.000286
+D_star(-1)                 -0.025813       -0.001333        0.001867        0.219575
+A(-1)                       0.913206       -0.216666       -0.007213       -0.090549
+R_star(-1)                 -1.086249        0.582925        0.560334        0.386930
+Y_star(-1)                  0.535421        0.085281        0.004266       -0.073191
+P_c(-1)                    -0.008295       -0.001477       -0.001601       -0.000244
+theta_c(-1)                -0.002042       -0.000208       -0.000166       -0.000265
+cryp(-1)                   -0.001673       -0.000436       -0.000176       -0.000282
+R_c(-1)                    -0.001536       -0.000400       -0.000162       -0.000259
+epsilon(-1)                 0.245805        0.072403       -0.025094        0.035572
+varepsilon_R               -4.170223       -1.228356        0.425740       -0.603506
+varepsilon_A                0.961269       -0.228070       -0.007593       -0.095314
+varepsilon_Rstar           -1.080626        0.654217        0.613454       -0.644566
+varepsilon_Ystar            0.594912        0.094756        0.004740       -0.081323
+vol                        -0.002149       -0.000219       -0.000174       -0.000279
+
+
+THEORETICAL MOMENTS
+VARIABLE          MEAN  STD. DEV.   VARIANCE
+logY            1.0795     0.0628     0.0039
+logPi           0.0000     0.0053     0.0000
+logR            0.0149     0.0052     0.0000
+logD_star       1.4938     0.0365     0.0013
+
+
+
+VARIANCE DECOMPOSITION (in percent)
+                 varepsilon_R      varepsilon_A  varepsilon_Rstar  varepsilon_Ystar            eps_Rc               vol
+logY                     3.52             88.39              8.08              0.00              0.00              0.00
+logPi                   43.12             29.81             27.08              0.00              0.00              0.00
+logR                     5.24             29.31             65.44              0.00              0.00              0.00
+logD_star               17.54             13.19             69.26              0.00              0.00              0.00
+
+
+
+MATRIX OF CORRELATIONS
+Variables         logY      logPi       logR  logD_star
+logY            1.0000    -0.3112    -0.7476    -0.4244
+logPi          -0.3112     1.0000     0.3991     0.2555
+logR           -0.7476     0.3991     1.0000     0.3924
+logD_star      -0.4244     0.2555     0.3924     1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION
+Order             1       2       3       4       5
+logY         0.9667  0.9334  0.9008  0.8693  0.8390
+logPi        0.5989  0.4018  0.3011  0.2463  0.2137
+logR         0.9232  0.8562  0.7965  0.7426  0.6938
+logD_star    0.9966  0.9911  0.9845  0.9771  0.9692
+Total computing time : 0h00m00s

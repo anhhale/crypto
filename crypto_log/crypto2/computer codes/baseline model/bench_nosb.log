@@ -1,0 +1,726 @@
+Starting Dynare (version 4.4.3).
+Starting preprocessing of the model file ...
+Found 41 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...done
+Preprocessing completed.
+Starting MATLAB/Octave computing.
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.417369e-14,'default',1.000000e-12,2.465190e-31,'selected',1.000000e-09,2.465190e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',1.111973e-16,'selected',2.220446e-16,6.409495e-31,'selected',1.000000e-09,6.409495e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',6.666052e-21,'selected',2.220446e-16,4.930381e-32,'selected',1.000000e-09,4.930381e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.104673e-14,'default',1.000000e-12,1.232595e-32,'selected',1.000000e-09,1.232595e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',6.849425e-14,'default',1.000000e-12,1.232595e-30,'selected',1.000000e-09,1.232595e-30,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.417369e-14,'default',1.000000e-12,2.465190e-31,'selected',1.000000e-09,2.465190e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',1.111973e-16,'selected',2.220446e-16,6.409495e-31,'selected',1.000000e-09,6.409495e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',6.666052e-21,'selected',2.220446e-16,4.930381e-32,'selected',1.000000e-09,4.930381e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.104673e-14,'default',1.000000e-12,1.232595e-32,'selected',1.000000e-09,1.232595e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',6.849425e-14,'default',1.000000e-12,1.232595e-30,'selected',1.000000e-09,1.232595e-30,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.417369e-14,'default',1.000000e-12,2.465190e-31,'selected',1.000000e-09,2.465190e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',1.111973e-16,'selected',2.220446e-16,6.409495e-31,'selected',1.000000e-09,6.409495e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',6.666052e-21,'selected',2.220446e-16,4.930381e-32,'selected',1.000000e-09,4.930381e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.104673e-14,'default',1.000000e-12,1.232595e-32,'selected',1.000000e-09,1.232595e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',6.849425e-14,'default',1.000000e-12,1.232595e-30,'selected',1.000000e-09,1.232595e-30,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+STEADY-STATE RESULTS:
+
+lambda     		 1.00495
+c          		 0.995075
+h          		 0.333188
+inv        		 0.482792
+y          		 1.47787
+k          		 19.3117
+ne         		 0.573956
+atilde     		 1.02511
+b          		 0.867714
+nc         		 0.573956
+Hc         		 0.410013
+bc         		 0.867714
+Fc         		 0.0419037
+vc         		 -1.72901
+H1c        		 -0.958096
+Gc         		 0.588161
+omegacbar  		 0.592548
+rc         		 1.00174
+G1c        		 0.93189
+dc         		 0.780943
+kb         		 0.0867714
+rcl        		 1.00174
+w          		 2.65845
+rp         		 1.00188
+q          		 1
+rk         		 0.026875
+a          		 1
+vk         		 10
+gdp        		 1.47787
+sigma      		 0.28
+utility    		 -0.450036
+totutility 		 -240.469
+fshock     		 1
+ai         		 1
+levc       		 1.51181
+levtot     		 1.51181
+car        		 0.1
+lnb        		 -0.141893
+zc         		 1.00921
+lngdp      		 0.3906
+Ftot       		 0.0419037
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.417369e-14,'default',1.000000e-12,2.465190e-31,'selected',1.000000e-09,2.465190e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',1.111973e-16,'selected',2.220446e-16,6.409495e-31,'selected',1.000000e-09,6.409495e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',6.666052e-21,'selected',2.220446e-16,4.930381e-32,'selected',1.000000e-09,4.930381e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.104673e-14,'default',1.000000e-12,1.232595e-32,'selected',1.000000e-09,1.232595e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',6.849425e-14,'default',1.000000e-12,1.232595e-30,'selected',1.000000e-09,1.232595e-30,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0
+Equation number 2 : 0
+Equation number 3 : -3.6837e-07
+Equation number 4 : 0
+Equation number 5 : 0
+Equation number 6 : 0
+Equation number 7 : 0
+Equation number 8 : 0
+Equation number 9 : 0
+Equation number 10 : 0
+Equation number 11 : 0
+Equation number 12 : 0
+Equation number 13 : 0
+Equation number 14 : 0
+Equation number 15 : 0
+Equation number 16 : 0
+Equation number 17 : 0
+Equation number 18 : 0
+Equation number 19 : 0
+Equation number 20 : 0
+Equation number 21 : 0
+Equation number 22 : 0
+Equation number 23 : 0
+Equation number 24 : 0
+Equation number 25 : 0
+Equation number 26 : 0
+Equation number 27 : 0
+Equation number 28 : 0
+Equation number 29 : 0
+Equation number 30 : 0
+Equation number 31 : 0
+Equation number 32 : 0
+Equation number 33 : 0
+Equation number 34 : 0
+Equation number 35 : 0
+Equation number 36 : 0
+Equation number 37 : 0
+Equation number 38 : 0
+Equation number 39 : 0
+Equation number 40 : 0
+Equation number 41 : 0
+
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.417369e-14,'default',1.000000e-12,2.465190e-31,'selected',1.000000e-09,2.465190e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',1.111973e-16,'selected',2.220446e-16,6.409495e-31,'selected',1.000000e-09,6.409495e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',6.666052e-21,'selected',2.220446e-16,4.930381e-32,'selected',1.000000e-09,4.930381e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.104673e-14,'default',1.000000e-12,1.232595e-32,'selected',1.000000e-09,1.232595e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',6.849425e-14,'default',1.000000e-12,1.232595e-30,'selected',1.000000e-09,1.232595e-30,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0               -0                0
+        0.001214        -0.001214                0
+          0.6745           0.6745                0
+          0.7894           0.7894                0
+            0.82             0.82                0
+          0.8971           0.8971                0
+            0.91             0.91                0
+            0.95             0.95                0
+          0.9672           0.9672                0
+            0.98             0.98                0
+           1.002            1.002                0
+           1.038            1.038                0
+           1.397            1.397                0
+           1.815           -1.815                0
+        5.49e+16         5.49e+16                0
+             Inf              Inf                0
+
+
+There are 6 eigenvalue(s) larger than 1 in modulus 
+for 6 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.417369e-14,'default',1.000000e-12,2.465190e-31,'selected',1.000000e-09,2.465190e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',1.111973e-16,'selected',2.220446e-16,6.409495e-31,'selected',1.000000e-09,6.409495e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',6.666052e-21,'selected',2.220446e-16,4.930381e-32,'selected',1.000000e-09,4.930381e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.104673e-14,'default',1.000000e-12,1.232595e-32,'selected',1.000000e-09,1.232595e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',6.849425e-14,'default',1.000000e-12,1.232595e-30,'selected',1.000000e-09,1.232595e-30,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_solved_singular','CSHelpWindow');">Equation solved, fsolve stalled</a>.
+
+fsolve stopped because the relative <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'norm_current_step','CSHelpWindow');">size of the current step</a> is less than the
+default value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'step_size_tol','CSHelpWindow');">step size tolerance</a> squared and the vector of function values
+is near zero as measured by the selected value of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',2.000000e+00,true,true,'fsolve',7.117251e-14,'default',1.000000e-12,9.860761e-32,'selected',1.000000e-09,9.860761e-32,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+MODEL SUMMARY
+
+  Number of variables:         41
+  Number of stochastic shocks: 5
+  Number of state variables:   10
+  Number of jumpers:           6
+  Number of static variables:  27
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+
+Variables      ea      esigma    efshock     eai       evk   
+ea           0.000100  0.000000  0.000000  0.000000  0.000000
+esigma       0.000000  0.000100  0.000000  0.000000  0.000000
+efshock      0.000000  0.000000  0.000000  0.000000  0.000000
+eai          0.000000  0.000000  0.000000  0.000000  0.000000
+evk          0.000000  0.000000  0.000000  0.000000  0.000100
+
+POLICY AND TRANSITION FUNCTIONS
+                              lambda          c               h               inv             y               k               ne              atilde          b               nc              Hc              bc              Fc              vc              H1c             Gc              omegacbar       rc              G1c             dc              kb              rcl             w               rp              q               rk              a               vk              gdp             sigma           utility         totutility      fshock          ai              levc            levtot          car             lnb             zc              lngdp           Ftot      
+Constant                    1.004949        0.995075        0.333188        0.482792        1.477867       19.311677        0.573956        1.025108        0.867714        0.573956        0.410013        0.867714        0.041904       -1.729009       -0.958096        0.588161        0.592548        1.001739        0.931890        0.780943        0.086771        1.001739        2.658447        1.001875        1.000000        0.026875        1.000000       10.000000        1.477867        0.280000       -0.450036     -240.469253        1.000000        1.000000        1.511812        1.511812        0.100000       -0.141893        1.009213        0.390600        0.041904
+k(-1)                      -0.025025        0.024779       -0.001900       -0.002408        0.022371        0.972592        0.002231        0.001684        0.019454               0       -0.004884        0.019454        0.002749        0.030721        0.002749        0.004750        0.005097        0.000570       -0.004141        0.019454        0.000237        0.000794        0.051036        0.000570       -0.004495       -0.001029               0               0        0.022371               0        0.029981        1.022321               0               0        0.033895        0.033895               0        0.022420        0.001331        0.015137        0.002749
+ne(-1)                     -0.034785        0.034444        0.017875        0.014270        0.048714        0.014270        0.793690       -0.111686       -0.795409        1.000000        0.588433       -0.795409       -0.331253       -3.701743       -0.331253       -0.572338       -0.614169       -0.014339        0.498985       -0.795409       -0.008922       -0.023506        0.234644       -0.014198        0.040455        0.003814               0               0        0.048714               0       -0.013250        0.008590               0               0       -4.019855       -4.019855               0       -0.916671       -0.087655        0.032962       -0.331253
+bc(-1)                      0.000153       -0.000152       -0.000035        0.000055       -0.000097        0.000055        0.000122        0.000307       -0.000526               0        0.000130       -0.000526       -0.000073       -0.000819       -0.000073       -0.000127       -0.000136        0.000333        0.000110       -0.000526        0.002854        0.000327       -0.000688        0.000333       -0.000097       -0.000010               0               0       -0.000097               0       -0.000058        0.000073               0               0       -0.000917       -0.000917               0       -0.000607        0.000315       -0.000065       -0.000073
+kb(-1)                     -0.070627        0.069934        0.037237        0.031545        0.101478        0.031545       -0.174044       -0.230787        0.423562               0       -0.169307        0.423562        0.095310        1.065083        0.095310        0.164676        0.176712       -0.029364       -0.143570       -0.576438        0.876324       -0.139728        0.483942       -0.029258        0.084951        0.007896               0               0        0.101478               0       -0.029282        0.024813               0               0        0.737969        0.737969               0        0.488135       -0.122364        0.068665        0.095310
+a(-1)                      -1.041096        1.030867        0.014912        0.413744        1.444611        0.413744        0.035086       -0.151696        1.622568               0       -0.405713        1.622568        0.228392        2.552275        0.228392        0.394615        0.423457       -0.240591       -0.344039        1.622568       -0.004511       -0.221891        2.873046       -0.240765        0.787583        0.030247        0.950000               0        1.444611               0        0.996353       27.824079               0               0        2.826990        2.826990               0        1.869934       -0.179438        0.977497        0.228392
+sigma(-1)                   0.036319       -0.035963       -0.024521       -0.030862       -0.066824       -0.030862        0.124350        0.141582       -0.264302               0        0.118641       -0.264302        0.591687        6.612081        0.591687       -0.143129       -0.069593        0.019102       -0.799567       -0.264302       -0.000956        0.016056       -0.291726        0.019146       -0.063074       -0.004927               0               0       -0.066824        0.980000        0.029334       -0.126536               0               0       -0.460492       -0.460492               0       -0.304596        0.143240       -0.045217        0.591687
+fshock(-1)                 -0.012686        0.012561       -0.000515       -0.013964       -0.001403       -0.013964       -0.444972       -0.010746        0.013745               0       -0.003385        0.013745        0.001906        0.021295        0.001906        0.003293        0.003533       -0.011369       -0.002871        0.013745       -0.000824       -0.011211        0.029452       -0.011371       -0.003093        0.000256               0               0       -0.001403               0        0.014001       -0.026549        0.820000               0        0.023947        0.023947               0        0.015840       -0.010926       -0.000949        0.001906
+inv(-1)                     0.484493       -0.479733        0.075286        0.684902        0.205170        0.684902        0.086490        0.173264       -0.043527               0        0.009961       -0.043527       -0.005607       -0.062662       -0.005607       -0.009688       -0.010396        0.173321        0.008447       -0.043527        0.014166        0.172819       -0.680960        0.173286       -0.516371       -0.000811               0               0        0.205170               0       -0.683248        0.052851               0               0       -0.075837       -0.075837               0       -0.050163        0.173025        0.138828       -0.005607
+ai(-1)                     -0.034664        0.034323       -0.014732       -0.074471       -0.040148       -0.074471        0.008744        0.027445       -0.077763               0        0.019334       -0.077763       -0.010884       -0.121628       -0.010884       -0.018805       -0.020180        0.031428        0.016395       -0.077763        0.001891        0.030532       -0.025849        0.031451        0.050120       -0.001450               0               0       -0.040148               0        0.073841       -0.065019               0        0.910000       -0.135486       -0.135486               0       -0.089619        0.028658       -0.027166       -0.010884
+ea                          1.095891       -1.085124       -0.015696       -0.435520       -1.520643       -0.435520       -0.036933        0.159680       -1.707967               0        0.427066       -1.707967       -0.240413       -2.686605       -0.240413       -0.415384       -0.445744        0.253253        0.362147       -1.707967        0.004749        0.233570       -3.024259        0.253437       -0.829035       -0.031839       -1.000000               0       -1.520643               0       -1.048792      -29.288504               0               0       -2.975779       -2.975779               0       -1.968352        0.188882       -1.028944       -0.240413
+esigma                      0.010377       -0.010275       -0.007006       -0.008818       -0.019093       -0.008818        0.035529        0.040452       -0.075515               0        0.033897       -0.075515        0.169054        1.889166        0.169054       -0.040894       -0.019884        0.005458       -0.228448       -0.075515       -0.000273        0.004588       -0.083350        0.005470       -0.018021       -0.001408               0               0       -0.019093        0.280000        0.008381       -0.036153               0               0       -0.131569       -0.131569               0       -0.087027        0.040926       -0.012919        0.169054
+efshock                    -0.015471        0.015319       -0.000628       -0.017030       -0.001711       -0.017030       -0.542649       -0.013105        0.016762               0       -0.004128        0.016762        0.002324        0.025970        0.002324        0.004015        0.004309       -0.013865       -0.003501        0.016762       -0.001004       -0.013672        0.035917       -0.013867       -0.003772        0.000312               0               0       -0.001711               0        0.017074       -0.032377        1.000000               0        0.029204        0.029204               0        0.019317       -0.013325       -0.001158        0.002324
+eai                        -0.038092        0.037718       -0.016189       -0.081837       -0.044119       -0.081837        0.009609        0.030160       -0.085454               0        0.021246       -0.085454       -0.011960       -0.133657       -0.011960       -0.020665       -0.022176        0.034536        0.018017       -0.085454        0.002078        0.033552       -0.028406        0.034561        0.055077       -0.001593               0               0       -0.044119               0        0.081144       -0.071449               0        1.000000       -0.148886       -0.148886               0       -0.098482        0.031492       -0.029853       -0.011960
+evk                         0.005669       -0.005614       -0.002250       -0.000518       -0.006131       -0.000518        0.006014        0.015374       -0.027603               0        0.006832       -0.027603       -0.003846       -0.042980       -0.003846       -0.006645       -0.007131        0.006710        0.005794       -0.027603        0.008714        0.016392       -0.032949        0.006715       -0.005388       -0.000515               0      -10.000000       -0.006131               0        0.000366        0.000075               0               0       -0.048092       -0.048092        0.100000       -0.031811        0.015772       -0.004149       -0.003846
+
+
+THEORETICAL MOMENTS
+
+VARIABLE        MEAN    STD. DEV.   VARIANCE 
+lambda           1.0049     0.0360     0.0013
+c                0.9951     0.0357     0.0013
+h                0.3332     0.0031     0.0000
+inv              0.4828     0.0391     0.0015
+y                1.4779     0.0705     0.0050
+k               19.3117     0.8828     0.7793
+ne               0.5740     0.0260     0.0007
+atilde           1.0251     0.0023     0.0000
+b                0.8677     0.0503     0.0025
+nc               0.5740     0.0260     0.0007
+Hc               0.4100     0.0104     0.0001
+bc               0.8677     0.0503     0.0025
+Fc               0.0419     0.0073     0.0001
+vc              -1.7290     0.0812     0.0066
+H1c             -0.9581     0.0073     0.0001
+Gc               0.5882     0.0104     0.0001
+omegacbar        0.5925     0.0104     0.0001
+rc               1.0017     0.0033     0.0000
+G1c              0.9319     0.0099     0.0001
+dc               0.7809     0.0478     0.0023
+kb               0.0868     0.0036     0.0000
+rcl              1.0017     0.0030     0.0000
+w                2.6584     0.1105     0.0122
+rp               1.0019     0.0033     0.0000
+q                1.0000     0.0112     0.0001
+rk               0.0269     0.0009     0.0000
+a                1.0000     0.0320     0.0010
+vk              10.0000     0.1000     0.0100
+gdp              1.4779     0.0705     0.0050
+sigma            0.2800     0.0141     0.0002
+utility         -0.4500     0.0322     0.0010
+totutility    -240.4693     1.6216     2.6297
+fshock           1.0000     0.0000     0.0000
+ai               1.0000     0.0000     0.0000
+levc             1.5118     0.0687     0.0047
+levtot           1.5118     0.0687     0.0047
+car              0.1000     0.0010     0.0000
+lnb             -0.1419     0.0580     0.0034
+zc               1.0092     0.0027     0.0000
+lngdp            0.3906     0.0477     0.0023
+Ftot             0.0419     0.0073     0.0001
+
+
+
+VARIANCE DECOMPOSITION (in percent)
+
+                ea     esigma  efshock    eai      evk   
+lambda          99.97     0.03     0.00     0.00     0.00
+c               99.97     0.03     0.00     0.00     0.00
+h               99.21     0.79     0.00     0.00     0.01
+inv             99.94     0.06     0.00     0.00     0.00
+y               99.96     0.04     0.00     0.00     0.00
+k               99.91     0.09     0.00     0.00     0.00
+ne              89.33    10.66     0.00     0.00     0.00
+atilde          72.92    26.59     0.00     0.00     0.49
+b               95.00     5.00     0.00     0.00     0.00
+nc              89.33    10.66     0.00     0.00     0.00
+Hc              56.07    43.92     0.00     0.00     0.01
+bc              95.00     5.00     0.00     0.00     0.00
+Fc              36.59    63.40     0.00     0.00     0.01
+vc              36.59    63.40     0.00     0.00     0.01
+H1c             36.59    63.40     0.00     0.00     0.01
+Gc              53.31    46.69     0.00     0.00     0.01
+omegacbar       61.38    38.61     0.00     0.00     0.01
+rc              99.92     0.04     0.00     0.00     0.04
+G1c             44.32    55.68     0.00     0.00     0.01
+dc              95.41     4.59     0.00     0.00     0.00
+kb              90.78     8.97     0.00     0.00     0.25
+rcl             99.65     0.05     0.00     0.00     0.30
+w               99.91     0.09     0.00     0.00     0.00
+rp              99.92     0.04     0.00     0.00     0.04
+q               99.95     0.04     0.00     0.00     0.00
+rk              99.86     0.14     0.00     0.00     0.00
+a              100.00     0.00     0.00     0.00     0.00
+vk               0.00     0.00     0.00     0.00   100.00
+gdp             99.96     0.04     0.00     0.00     0.00
+sigma            0.00   100.00     0.00     0.00     0.00
+utility         99.96     0.04     0.00     0.00     0.00
+totutility      99.97     0.03     0.00     0.00     0.00
+fshock           0.00     0.00   100.00     0.00     0.00
+ai               0.00     0.00     0.00   100.00     0.00
+levc            62.77    37.23     0.00     0.00     0.01
+levtot          62.77    37.23     0.00     0.00     0.01
+car              0.00     0.00     0.00     0.00   100.00
+lnb             95.00     5.00     0.00     0.00     0.00
+zc              76.03    23.61     0.00     0.00     0.36
+lngdp           99.96     0.04     0.00     0.00     0.00
+Ftot            36.59    63.40     0.00     0.00     0.01
+
+
+
+MATRIX OF CORRELATIONS
+
+Variables      lambda         c           h          inv          y           k          ne        atilde         b          nc          Hc          bc          Fc          vc          H1c         Gc       omegacbar      rc          G1c         dc          kb          rcl          w          rp           q          rk           a          vk          gdp        sigma      utility   totutility     levc       levtot        car         lnb         zc         lngdp       Ftot    
+lambda            1.0000     -1.0000     -0.5279     -0.7771     -0.9370     -0.8829     -0.8265      0.4713     -0.8902     -0.8131      0.3071     -0.8902     -0.2344     -0.2344     -0.2344     -0.2998     -0.3205      0.5438      0.2594     -0.8760     -0.8271      0.5452     -0.9814      0.5441     -0.4694     -0.1769     -0.8536     -0.0016     -0.9370      0.0105     -0.9754     -0.9791     -0.3252     -0.3252      0.0016     -0.8902      0.4966     -0.9370     -0.2344
+c                -1.0000      1.0000      0.5279      0.7771      0.9370      0.8829      0.8265     -0.4713      0.8902      0.8131     -0.3071      0.8902      0.2344      0.2344      0.2344      0.2998      0.3205     -0.5438     -0.2594      0.8760      0.8271     -0.5452      0.9814     -0.5441      0.4694      0.1769      0.8536      0.0016      0.9370     -0.0105      0.9754      0.9791      0.3252      0.3252     -0.0016      0.8902     -0.4966      0.9370      0.2344
+h                -0.5279      0.5279      1.0000      0.9414      0.7894      0.2944      0.6329     -0.0224      0.7728      0.5946     -0.3771      0.7728      0.1913      0.1913      0.1913      0.3711      0.3881     -0.2465     -0.2221      0.7721      0.6033     -0.2018      0.6812     -0.2475      0.3444      0.7655      0.8626      0.0072      0.7894     -0.0871      0.3277      0.6446      0.3932      0.3932     -0.0072      0.7728     -0.1346      0.7894      0.1913
+inv              -0.7771      0.7771      0.9414      1.0000      0.9480      0.5791      0.8173     -0.1399      0.8987      0.7845     -0.3446      0.8987      0.2472      0.2472      0.2472      0.3369      0.3588     -0.3504     -0.2752      0.8912      0.7744     -0.3175      0.8827     -0.3512      0.3924      0.6057      0.9607      0.0001      0.9480     -0.0240      0.6201      0.8624      0.3646      0.3646     -0.0001      0.8987     -0.2322      0.9480      0.2472
+y                -0.9370      0.9370      0.7894      0.9480      1.0000      0.7679      0.8715     -0.3160      0.9490      0.8466     -0.3466      0.9490      0.2557      0.2557      0.2557      0.3386      0.3612     -0.4695     -0.2839      0.9376      0.8480     -0.4519      0.9862     -0.4700      0.4552      0.4256      0.9649      0.0009      1.0000     -0.0186      0.8375      0.9738      0.3668      0.3668     -0.0009      0.9490     -0.3800      1.0000      0.2557
+k                -0.8829      0.8829      0.2944      0.5791      0.7679      1.0000      0.8208     -0.2399      0.6330      0.8351      0.0227      0.6330     -0.0494     -0.0494     -0.0494     -0.0212     -0.0255     -0.1363      0.0512      0.5996      0.8788     -0.1524      0.8277     -0.1364      0.0215     -0.2518      0.5774      0.0000      0.7679     -0.0239      0.9057      0.8911     -0.0250     -0.0250     -0.0000      0.6330     -0.2006      0.7679     -0.0494
+ne               -0.8265      0.8265      0.6329      0.8173      0.8715      0.8208      1.0000      0.0305      0.6734      0.9974      0.1579      0.6734      0.2822      0.2822      0.2822     -0.1660     -0.1416     -0.1439     -0.2688      0.6497      0.7992     -0.1392      0.8556     -0.1442      0.1087      0.1399      0.7708     -0.0023      0.8715      0.3148      0.7551      0.8946     -0.1353     -0.1353      0.0023      0.6734      0.0119      0.8715      0.2822
+atilde            0.4713     -0.4713     -0.0224     -0.1399     -0.3160     -0.2399      0.0305      1.0000     -0.5142      0.0357      0.6978     -0.5142      0.0918      0.0918      0.0918     -0.6997     -0.6924      0.7715     -0.0343     -0.5233     -0.2320      0.7928     -0.4114      0.7714     -0.7066     -0.1881     -0.3436     -0.0672     -0.3160      0.5037     -0.5186     -0.3327     -0.6917     -0.6917      0.0672     -0.5142      0.9831     -0.3160      0.0918
+b                -0.8902      0.8902      0.7728      0.8987      0.9490      0.6330      0.6734     -0.5142      1.0000      0.6376     -0.6231      1.0000      0.2208      0.2208      0.2208      0.6159      0.6357     -0.6374     -0.2717      0.9986      0.7582     -0.6153      0.9421     -0.6381      0.6357      0.5509      0.9618      0.0055      0.9490     -0.2171      0.7897      0.8964      0.6403      0.6403     -0.0055      1.0000     -0.5975      0.9490      0.2208
+nc               -0.8131      0.8131      0.5946      0.7845      0.8466      0.8351      0.9974      0.0357      0.6376      1.0000      0.2030      0.6376      0.2375      0.2375      0.2375     -0.2098     -0.1893     -0.1033     -0.2205      0.6113      0.8036     -0.1023      0.8353     -0.1035      0.0609      0.0825      0.7322      0.0000      0.8466      0.3085      0.7501      0.8812     -0.1835     -0.1835      0.0000      0.6376      0.0299      0.8466      0.2375
+Hc                0.3071     -0.3071     -0.3771     -0.3446     -0.3466      0.0227      0.1579      0.6978     -0.6231      0.2030      1.0000     -0.6231      0.0254      0.0254      0.0254     -0.9996     -0.9983      0.6719      0.0569     -0.6455     -0.1792      0.6458     -0.3500      0.6725     -0.7100     -0.5881     -0.4683     -0.0066     -0.3466      0.6403     -0.2438     -0.2502     -0.9975     -0.9975      0.0066     -0.6231      0.7905     -0.3466      0.0254
+bc               -0.8902      0.8902      0.7728      0.8987      0.9490      0.6330      0.6734     -0.5142      1.0000      0.6376     -0.6231      1.0000      0.2208      0.2208      0.2208      0.6159      0.6357     -0.6374     -0.2717      0.9986      0.7582     -0.6153      0.9421     -0.6381      0.6357      0.5509      0.9618      0.0055      0.9490     -0.2171      0.7897      0.8964      0.6403      0.6403     -0.0055      1.0000     -0.5975      0.9490      0.2208
+Fc               -0.2344      0.2344      0.1913      0.2472      0.2557     -0.0494      0.2822      0.0918      0.2208      0.2375      0.0254      0.2208      1.0000      1.0000      1.0000     -0.0547      0.0322     -0.5383     -0.9966      0.2491     -0.1964     -0.5248      0.2453     -0.5381      0.5631      0.4388      0.3783      0.0053      0.2557      0.7841      0.2111      0.1837      0.0449      0.0449     -0.0053      0.2208     -0.0164      0.2557      1.0000
+vc               -0.2344      0.2344      0.1913      0.2472      0.2557     -0.0494      0.2822      0.0918      0.2208      0.2375      0.0254      0.2208      1.0000      1.0000      1.0000     -0.0547      0.0322     -0.5383     -0.9966      0.2491     -0.1964     -0.5248      0.2453     -0.5381      0.5631      0.4388      0.3783      0.0053      0.2557      0.7841      0.2111      0.1837      0.0449      0.0449     -0.0053      0.2208     -0.0164      0.2557      1.0000
+H1c              -0.2344      0.2344      0.1913      0.2472      0.2557     -0.0494      0.2822      0.0918      0.2208      0.2375      0.0254      0.2208      1.0000      1.0000      1.0000     -0.0547      0.0322     -0.5383     -0.9966      0.2491     -0.1964     -0.5248      0.2453     -0.5381      0.5631      0.4388      0.3783      0.0053      0.2557      0.7841      0.2111      0.1837      0.0449      0.0449     -0.0053      0.2208     -0.0164      0.2557      1.0000
+Gc               -0.2998      0.2998      0.3711      0.3369      0.3386     -0.0212     -0.1660     -0.6997      0.6159     -0.2098     -0.9996      0.6159     -0.0547     -0.0547     -0.0547      1.0000      0.9962     -0.6553     -0.0275      0.6374      0.1848     -0.6296      0.3423     -0.6559      0.6925      0.5745      0.4566      0.0064      0.3386     -0.6626      0.2373      0.2445      0.9950      0.9950     -0.0064      0.6159     -0.7891      0.3386     -0.0547
+omegacbar        -0.3205      0.3205      0.3881      0.3588      0.3612     -0.0255     -0.1416     -0.6924      0.6357     -0.1893     -0.9983      0.6357      0.0322      0.0322      0.0322      0.9962      1.0000     -0.7028     -0.1142      0.6597      0.1679     -0.6758      0.3640     -0.7034      0.7422      0.6132      0.4900      0.0069      0.3612     -0.5950      0.2559      0.2607      0.9999      0.9999     -0.0069      0.6357     -0.7913      0.3612      0.0322
+rc                0.5438     -0.5438     -0.2465     -0.3504     -0.4695     -0.1363     -0.1439      0.7715     -0.6374     -0.1033      0.6719     -0.6374     -0.5383     -0.5383     -0.5383     -0.6553     -0.7028      1.0000      0.5929     -0.6663     -0.0855      0.9970     -0.5245      1.0000     -0.9832     -0.5463     -0.5913     -0.0201     -0.4695      0.0035     -0.5410     -0.4112     -0.7104     -0.7104      0.0201     -0.6374      0.8494     -0.4695     -0.5383
+G1c               0.2594     -0.2594     -0.2221     -0.2752     -0.2839      0.0512     -0.2688     -0.0343     -0.2717     -0.2205      0.0569     -0.2717     -0.9966     -0.9966     -0.9966     -0.0275     -0.1142      0.5929      1.0000     -0.3018      0.1814      0.5772     -0.2738      0.5927     -0.6207     -0.4865     -0.4163     -0.0058     -0.2839     -0.7305     -0.2309     -0.2041     -0.1269     -0.1269      0.0058     -0.2717      0.0814     -0.2839     -0.9966
+dc               -0.8760      0.8760      0.7721      0.8912      0.9376      0.5996      0.6497     -0.5233      0.9986      0.6113     -0.6455      0.9986      0.2491      0.2491      0.2491      0.6374      0.6597     -0.6663     -0.3018      1.0000      0.7234     -0.6426      0.9297     -0.6670      0.6688      0.5813      0.9624      0.0058      0.9376     -0.2093      0.7741      0.8778      0.6647      0.6647     -0.0058      0.9986     -0.6130      0.9376      0.2491
+kb               -0.8271      0.8271      0.6033      0.7744      0.8480      0.8788      0.7992     -0.2320      0.7582      0.8036     -0.1792      0.7582     -0.1964     -0.1964     -0.1964      0.1848      0.1679     -0.0855      0.1814      0.7234      1.0000     -0.0861      0.8494     -0.0861      0.0367      0.0409      0.7095     -0.0241      0.8480     -0.2621      0.7635      0.8939      0.1661      0.1661      0.0241      0.7582     -0.2189      0.8480     -0.1964
+rcl               0.5452     -0.5452     -0.2018     -0.3175     -0.4519     -0.1524     -0.1392      0.7928     -0.6153     -0.1023      0.6458     -0.6153     -0.5248     -0.5248     -0.5248     -0.6296     -0.6758      0.9970      0.5772     -0.6426     -0.0861      1.0000     -0.5156      0.9970     -0.9703     -0.4986     -0.5640     -0.0545     -0.4519     -0.0024     -0.5542     -0.4054     -0.6831     -0.6831      0.0545     -0.6153      0.8594     -0.4519     -0.5248
+w                -0.9814      0.9814      0.6812      0.8827      0.9862      0.8277      0.8556     -0.4114      0.9421      0.8353     -0.3500      0.9421      0.2453      0.2453      0.2453      0.3423      0.3640     -0.5245     -0.2738      0.9297      0.8494     -0.5156      1.0000     -0.5249      0.4825      0.3255      0.9308      0.0030      0.9862     -0.0287      0.9149      0.9898      0.3692      0.3692     -0.0030      0.9421     -0.4585      0.9862      0.2453
+rp                0.5441     -0.5441     -0.2475     -0.3512     -0.4700     -0.1364     -0.1442      0.7714     -0.6381     -0.1035      0.6725     -0.6381     -0.5381     -0.5381     -0.5381     -0.6559     -0.7034      1.0000      0.5927     -0.6670     -0.0861      0.9970     -0.5249      1.0000     -0.9834     -0.5470     -0.5919     -0.0201     -0.4700      0.0040     -0.5410     -0.4116     -0.7110     -0.7110      0.0201     -0.6381      0.8494     -0.4700     -0.5381
+q                -0.4694      0.4694      0.3444      0.3924      0.4552      0.0215      0.1087     -0.7066      0.6357      0.0609     -0.7100      0.6357      0.5631      0.5631      0.5631      0.6925      0.7422     -0.9832     -0.6207      0.6688      0.0367     -0.9703      0.4825     -0.9834      1.0000      0.6837      0.6139      0.0048      0.4552     -0.0081      0.4329      0.3577      0.7503      0.7503     -0.0048      0.6357     -0.8063      0.4552      0.5631
+rk               -0.1769      0.1769      0.7655      0.6057      0.4256     -0.2518      0.1399     -0.1881      0.5509      0.0825     -0.5881      0.5509      0.4388      0.4388      0.4388      0.5745      0.6132     -0.5463     -0.4865      0.5813      0.0409     -0.4986      0.3255     -0.5470      0.6837      1.0000      0.6429      0.0057      0.4256     -0.0279     -0.0019      0.2135      0.6207      0.6207     -0.0057      0.5509     -0.3374      0.4256      0.4388
+a                -0.8536      0.8536      0.8626      0.9607      0.9649      0.5774      0.7708     -0.3436      0.9618      0.7322     -0.4683      0.9618      0.3783      0.3783      0.3783      0.4566      0.4900     -0.5913     -0.4163      0.9624      0.7095     -0.5640      0.9308     -0.5919      0.6139      0.6429      1.0000      0.0000      0.9649      0.0000      0.7257      0.8850      0.4972      0.4972      0.0000      0.9618     -0.4415      0.9649      0.3783
+vk               -0.0016      0.0016      0.0072      0.0001      0.0009      0.0000     -0.0023     -0.0672      0.0055      0.0000     -0.0066      0.0055      0.0053      0.0053      0.0053      0.0064      0.0069     -0.0201     -0.0058      0.0058     -0.0241     -0.0545      0.0030     -0.0201      0.0048      0.0057      0.0000      1.0000      0.0009      0.0000     -0.0001     -0.0000      0.0070      0.0070     -1.0000      0.0055     -0.0591      0.0009      0.0053
+gdp              -0.9370      0.9370      0.7894      0.9480      1.0000      0.7679      0.8715     -0.3160      0.9490      0.8466     -0.3466      0.9490      0.2557      0.2557      0.2557      0.3386      0.3612     -0.4695     -0.2839      0.9376      0.8480     -0.4519      0.9862     -0.4700      0.4552      0.4256      0.9649      0.0009      1.0000     -0.0186      0.8375      0.9738      0.3668      0.3668     -0.0009      0.9490     -0.3800      1.0000      0.2557
+sigma             0.0105     -0.0105     -0.0871     -0.0240     -0.0186     -0.0239      0.3148      0.5037     -0.2171      0.3085      0.6403     -0.2171      0.7841      0.7841      0.7841     -0.6626     -0.5950      0.0035     -0.7305     -0.2093     -0.2621     -0.0024     -0.0287      0.0040     -0.0081     -0.0279      0.0000      0.0000     -0.0186      1.0000      0.0109     -0.0142     -0.5847     -0.5847      0.0000     -0.2171      0.4781     -0.0186      0.7841
+utility          -0.9754      0.9754      0.3277      0.6201      0.8375      0.9057      0.7551     -0.5186      0.7897      0.7501     -0.2438      0.7897      0.2111      0.2111      0.2111      0.2373      0.2559     -0.5410     -0.2309      0.7741      0.7635     -0.5542      0.9149     -0.5410      0.4329     -0.0019      0.7257     -0.0001      0.8375      0.0109      1.0000      0.9219      0.2598      0.2598      0.0001      0.7897     -0.5175      0.8375      0.2111
+totutility       -0.9791      0.9791      0.6446      0.8624      0.9738      0.8911      0.8946     -0.3327      0.8964      0.8812     -0.2502      0.8964      0.1837      0.1837      0.1837      0.2445      0.2607     -0.4112     -0.2041      0.8778      0.8939     -0.4054      0.9898     -0.4116      0.3577      0.2135      0.8850     -0.0000      0.9738     -0.0142      0.9219      1.0000      0.2651      0.2651      0.0000      0.8964     -0.3647      0.9738      0.1837
+levc             -0.3252      0.3252      0.3932      0.3646      0.3668     -0.0250     -0.1353     -0.6917      0.6403     -0.1835     -0.9975      0.6403      0.0449      0.0449      0.0449      0.9950      0.9999     -0.7104     -0.1269      0.6647      0.1661     -0.6831      0.3692     -0.7110      0.7503      0.6207      0.4972      0.0070      0.3668     -0.5847      0.2598      0.2651      1.0000      1.0000     -0.0070      0.6403     -0.7922      0.3668      0.0449
+levtot           -0.3252      0.3252      0.3932      0.3646      0.3668     -0.0250     -0.1353     -0.6917      0.6403     -0.1835     -0.9975      0.6403      0.0449      0.0449      0.0449      0.9950      0.9999     -0.7104     -0.1269      0.6647      0.1661     -0.6831      0.3692     -0.7110      0.7503      0.6207      0.4972      0.0070      0.3668     -0.5847      0.2598      0.2651      1.0000      1.0000     -0.0070      0.6403     -0.7922      0.3668      0.0449
+car               0.0016     -0.0016     -0.0072     -0.0001     -0.0009     -0.0000      0.0023      0.0672     -0.0055      0.0000      0.0066     -0.0055     -0.0053     -0.0053     -0.0053     -0.0064     -0.0069      0.0201      0.0058     -0.0058      0.0241      0.0545     -0.0030      0.0201     -0.0048     -0.0057      0.0000     -1.0000     -0.0009      0.0000      0.0001      0.0000     -0.0070     -0.0070      1.0000     -0.0055      0.0591     -0.0009     -0.0053
+lnb              -0.8902      0.8902      0.7728      0.8987      0.9490      0.6330      0.6734     -0.5142      1.0000      0.6376     -0.6231      1.0000      0.2208      0.2208      0.2208      0.6159      0.6357     -0.6374     -0.2717      0.9986      0.7582     -0.6153      0.9421     -0.6381      0.6357      0.5509      0.9618      0.0055      0.9490     -0.2171      0.7897      0.8964      0.6403      0.6403     -0.0055      1.0000     -0.5975      0.9490      0.2208
+zc                0.4966     -0.4966     -0.1346     -0.2322     -0.3800     -0.2006      0.0119      0.9831     -0.5975      0.0299      0.7905     -0.5975     -0.0164     -0.0164     -0.0164     -0.7891     -0.7913      0.8494      0.0814     -0.6130     -0.2189      0.8594     -0.4585      0.8494     -0.8063     -0.3374     -0.4415     -0.0591     -0.3800      0.4781     -0.5175     -0.3647     -0.7922     -0.7922      0.0591     -0.5975      1.0000     -0.3800     -0.0164
+lngdp            -0.9370      0.9370      0.7894      0.9480      1.0000      0.7679      0.8715     -0.3160      0.9490      0.8466     -0.3466      0.9490      0.2557      0.2557      0.2557      0.3386      0.3612     -0.4695     -0.2839      0.9376      0.8480     -0.4519      0.9862     -0.4700      0.4552      0.4256      0.9649      0.0009      1.0000     -0.0186      0.8375      0.9738      0.3668      0.3668     -0.0009      0.9490     -0.3800      1.0000      0.2557
+Ftot             -0.2344      0.2344      0.1913      0.2472      0.2557     -0.0494      0.2822      0.0918      0.2208      0.2375      0.0254      0.2208      1.0000      1.0000      1.0000     -0.0547      0.0322     -0.5383     -0.9966      0.2491     -0.1964     -0.5248      0.2453     -0.5381      0.5631      0.4388      0.3783      0.0053      0.2557      0.7841      0.2111      0.1837      0.0449      0.0449     -0.0053      0.2208     -0.0164      0.2557      1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION
+
+Order           1       2       3       4       5   
+lambda        0.9494  0.9146  0.8902  0.8726  0.8592
+c             0.9494  0.9146  0.8902  0.8726  0.8592
+h             0.9887  0.9592  0.9179  0.8694  0.8167
+inv           0.9891  0.9641  0.9303  0.8913  0.8494
+y             0.9764  0.9513  0.9254  0.8992  0.8729
+k             0.9993  0.9973  0.9939  0.9893  0.9836
+ne            0.9974  0.9900  0.9783  0.9630  0.9449
+atilde        0.6398  0.4287  0.3050  0.2361  0.2011
+b             0.9402  0.8850  0.8350  0.7902  0.7503
+nc            0.9974  0.9900  0.9783  0.9630  0.9449
+Hc            0.9059  0.8115  0.7236  0.6455  0.5781
+bc            0.9402  0.8850  0.8350  0.7902  0.7503
+Fc            0.9114  0.8270  0.7503  0.6827  0.6244
+vc            0.9114  0.8270  0.7503  0.6827  0.6244
+H1c           0.9114  0.8270  0.7503  0.6827  0.6244
+Gc            0.9103  0.8201  0.7361  0.6613  0.5966
+omegacbar     0.8974  0.7947  0.6994  0.6149  0.5423
+rc            0.6483  0.4139  0.2575  0.1540  0.0863
+G1c           0.8992  0.8029  0.7155  0.6388  0.5729
+dc            0.9333  0.8710  0.8144  0.7640  0.7193
+kb            0.9972  0.9903  0.9798  0.9662  0.9501
+rcl           0.6222  0.3794  0.2220  0.1215  0.0587
+w             0.9611  0.9306  0.9055  0.8839  0.8645
+rp            0.6486  0.4143  0.2580  0.1545  0.0868
+q             0.6755  0.4546  0.3036  0.2005  0.1299
+rk            0.9349  0.8721  0.8112  0.7524  0.6957
+a             0.9500  0.9025  0.8574  0.8145  0.7738
+vk            0.0000  0.0000  0.0000  0.0000  0.0000
+gdp           0.9764  0.9513  0.9254  0.8992  0.8729
+sigma         0.9800  0.9604  0.9412  0.9224  0.9039
+utility       0.9376  0.8973  0.8716  0.8554  0.8452
+totutility    0.9835  0.9678  0.9526  0.9376  0.9226
+levc          0.8953  0.7906  0.6935  0.6075  0.5335
+levtot        0.8953  0.7906  0.6935  0.6075  0.5335
+car           0.0000  0.0000  0.0000  0.0000  0.0000
+lnb           0.9402  0.8850  0.8350  0.7902  0.7503
+zc            0.6568  0.4477  0.3202  0.2449  0.2025
+lngdp         0.9764  0.9513  0.9254  0.8992  0.8729
+Ftot          0.9114  0.8270  0.7503  0.6827  0.6244
+Total computing time : 0h00m02s
+Note: warning(s) encountered in MATLAB/Octave code

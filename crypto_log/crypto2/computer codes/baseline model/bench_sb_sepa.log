@@ -1,0 +1,509 @@
+Starting Dynare (version 4.4.3).
+Starting preprocessing of the model file ...
+Found 55 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+Processing outputs ...done
+Preprocessing completed.
+Starting MATLAB/Octave computing.
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+STEADY-STATE RESULTS:
+
+lambda     		 1.00448
+c          		 0.995537
+h          		 0.333333
+inv        		 0.483438
+y          		 1.47898
+k          		 19.3375
+ne         		 0.561516
+atilde     		 1.02451
+b          		 0.882083
+nc         		 0.397889
+Hc         		 0.414079
+bc         		 0.590703
+Fc         		 0.0396601
+vc         		 -1.75464
+H1c        		 -0.96034
+Gc         		 0.584204
+omegacbar  		 0.58831
+rc         		 1.00168
+G1c        		 0.935278
+ns         		 0.163626
+Hs         		 0.369976
+bs         		 0.29138
+Fs         		 0.0691136
+vs         		 -1.48243
+H1s        		 -0.930886
+Gs         		 0.626241
+omegasbar  		 0.634905
+rs         		 1.00188
+G1s        		 0.884826
+dc         		 0.531633
+kb         		 0.0590703
+rcl        		 1.00168
+w          		 2.66084
+rp         		 1.00188
+q          		 1
+rk         		 0.026875
+rstilde    		 1.00188
+a          		 1
+vk         		 10
+gdp        		 1.47898
+sigma      		 0.28
+utility    		 -0.450001
+totutility 		 -240.451
+fshock     		 1
+ai         		 1
+bsshare    		 0.330331
+levtot     		 1.5709
+levs       		 1.78076
+levc       		 1.48459
+car        		 0.1
+lnb        		 -0.125469
+zs         		 1.01574
+zc         		 1.00872
+lngdp      		 0.39135
+Ftot       		 0.0493895
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0
+Equation number 2 : 0
+Equation number 3 : 0
+Equation number 4 : 0
+Equation number 5 : 0
+Equation number 6 : 0
+Equation number 7 : 0
+Equation number 8 : 0
+Equation number 9 : 0
+Equation number 10 : 0
+Equation number 11 : 0
+Equation number 12 : 0
+Equation number 13 : 0
+Equation number 14 : 0
+Equation number 15 : 0
+Equation number 16 : 0
+Equation number 17 : 0
+Equation number 18 : 0
+Equation number 19 : 0
+Equation number 20 : 0
+Equation number 21 : 0
+Equation number 22 : 0
+Equation number 23 : 0
+Equation number 24 : 0
+Equation number 25 : 0
+Equation number 26 : 0
+Equation number 27 : 0
+Equation number 28 : 0
+Equation number 29 : 0
+Equation number 30 : 0
+Equation number 31 : 0
+Equation number 32 : 0
+Equation number 33 : 0
+Equation number 34 : 0
+Equation number 35 : 0
+Equation number 36 : 0
+Equation number 37 : 0
+Equation number 38 : 0
+Equation number 39 : 0
+Equation number 40 : 0
+Equation number 41 : 0
+Equation number 42 : 0
+Equation number 43 : 0
+Equation number 44 : 0
+Equation number 45 : 0
+Equation number 46 : 0
+Equation number 47 : 0
+Equation number 48 : 0
+Equation number 49 : 0
+Equation number 50 : 0
+Equation number 51 : 0
+Equation number 52 : 0
+Equation number 53 : 0
+Equation number 54 : 0
+Equation number 55 : 0
+
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+               0                0                0
+               0                0                0
+       1.405e-09       -1.804e-15        1.405e-09
+       1.405e-09       -1.804e-15       -1.405e-09
+        0.005141        -0.005141                0
+          0.6758           0.6758                0
+          0.7931           0.7931                0
+            0.82             0.82                0
+          0.8969           0.8969                0
+            0.91             0.91                0
+            0.95             0.95                0
+          0.9673           0.9673                0
+            0.98             0.98                0
+          0.9999           0.9999                0
+           1.002            1.002                0
+           1.038            1.038                0
+           1.397            1.397                0
+           1.786           -1.786                0
+       3.684e+18       -3.684e+18                0
+       3.194e+19       -3.194e+19                0
+       4.076e+19        4.076e+19                0
+        1.77e+23        -1.77e+23                0
+
+
+There are 8 eigenvalue(s) larger than 1 in modulus 
+for 8 forward-looking variable(s)
+
+The rank condition is verified.
+
+
+<a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'eqn_inaccuracy','CSHelpWindow');">Equation solved, inaccuracy possible</a>.
+
+The vector of function values is near zero, as measured by the selected value
+of the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'fcn_tolerance_fsolve','CSHelpWindow');">function tolerance</a>. However, the <a href = "matlab: helpview([docroot '/toolbox/optim/msg_csh/optim_msg_csh.map'],'last_step_ineffective','CSHelpWindow');">last step was ineffective</a>.
+
+<<a href = "matlab: createExitMsg('trustnleqn',3.000000e+00,true,true,'fsolve',5.972442e-17,'selected',2.220446e-16,5.916457e-31,'selected',1.000000e-09,5.916457e-31,'selected',1.000000e-09);">stopping criteria details</a>>
+
+
+MODEL SUMMARY
+
+  Number of variables:         55
+  Number of stochastic shocks: 5
+  Number of state variables:   14
+  Number of jumpers:           8
+  Number of static variables:  36
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+
+Variables      ea      esigma    efshock     eai       evk   
+ea           0.000100  0.000000  0.000000  0.000000  0.000000
+esigma       0.000000  0.000100  0.000000  0.000000  0.000000
+efshock      0.000000  0.000000  0.000000  0.000000  0.000000
+eai          0.000000  0.000000  0.000000  0.000000  0.000000
+evk          0.000000  0.000000  0.000000  0.000000  0.000100
+
+POLICY AND TRANSITION FUNCTIONS
+                              lambda          c               h               inv             y               k               ne              atilde          b               nc              Hc              bc              Fc              vc              H1c             Gc              omegacbar       rc              G1c             ns              Hs              bs              Fs              vs              H1s             Gs              omegasbar       rs              G1s             dc              kb              rcl             w               rp              q               rk              rstilde         a               vk              gdp             sigma           utility         totutility      fshock          ai              bsshare         levtot          levs            levc            car             lnb             zs              zc              lngdp           Ftot      
+Constant                    1.004483        0.995537        0.333333        0.483438        1.478975       19.337515        0.561516        1.024506        0.882083        0.397889        0.414079        0.590703        0.039660       -1.754644       -0.960340        0.584204        0.588310        1.001675        0.935278        0.163626        0.369976        0.291380        0.069114       -1.482425       -0.930886        0.626241        0.634905        1.001875        0.884826        0.531633        0.059070        1.001675        2.660842        1.001875        1.000000        0.026875        1.001875        1.000000       10.000000        1.478975        0.280000       -0.450001     -240.450751        1.000000        1.000000        0.330331        1.570896        1.780762        1.484592        0.100000       -0.125469        1.015737        1.008716        0.391350        0.049389
+k(-1)                      -0.025017        0.024794       -0.001883       -0.002394        0.022400        0.972606        0.002105        0.001577        0.019642        0.001427       -0.004545        0.012261        0.002459        0.028731        0.002459        0.004426        0.004733        0.000556       -0.003722        0.000678       -0.005353        0.007381        0.004301        0.032349        0.004301        0.005088        0.005751        0.000556       -0.006510        0.012261        0.000151        0.000763        0.051237        0.000556       -0.004450       -0.001024               0               0               0        0.022400               0        0.029941        1.021404               0               0        0.001012        0.034981        0.045109        0.030815               0        0.022268        0.001511        0.001240        0.015146        0.003097
+ne(-1)                     -0.029088        0.028829        0.011597        0.002785        0.031614        0.002785       -0.097083       -0.079056       -0.857748       -0.065924        0.198307       -0.534819       -0.107278       -1.253568       -0.107278       -0.193132       -0.206496       -0.034369        0.162404       -0.031159        0.234212       -0.322929       -0.188172       -1.415287       -0.188172       -0.222623       -0.251601       -0.034169        0.284809       -0.534819       -0.007157       -0.043423        0.169627       -0.034169        0.027765        0.002648               0               0               0        0.031614               0       -0.002145       -0.000360               0               0       -0.044880       -1.527557       -1.973572       -1.344140               0       -0.972411       -0.076073       -0.064316        0.021376       -0.135322
+nc(-1)                     -0.002355        0.002334        0.004594        0.010188        0.012522        0.010188        0.903315       -0.021965        0.043173        0.925772        0.429058        0.363029       -0.232107       -2.712228       -0.232107       -0.417861       -0.446777        0.021382        0.351378       -0.022457        0.231983       -0.319856       -0.186382       -1.401821       -0.186382       -0.220505       -0.249207        0.021250        0.282099        0.363029        0.004747        0.027527        0.042908        0.021250        0.008866        0.000804               0               0               0        0.012522               0       -0.009860        0.041210               0               0       -0.378782       -2.720712       -1.954793       -2.818780               0        0.048944       -0.019493       -0.016823        0.008467       -0.228159
+bc(-1)                      0.000144       -0.000143       -0.000033        0.000051       -0.000091        0.000051        0.000114        0.000289       -0.000496        0.000083        0.000108       -0.000295       -0.000058       -0.000681       -0.000058       -0.000105       -0.000112        0.000309        0.000088        0.000031        0.000146       -0.000201       -0.000117       -0.000880       -0.000117       -0.000138       -0.000156        0.000309        0.000177       -0.000295        0.002852        0.000304       -0.000648        0.000309       -0.000091       -0.000009               0               0               0       -0.000091               0       -0.000054        0.000316               0               0       -0.000042       -0.000884       -0.001227       -0.000743               0       -0.000563        0.000288        0.000295       -0.000062       -0.000079
+ns(-1)                     -0.016775        0.016626        0.012268        0.016819        0.033444        0.016819        0.855206       -0.069357        0.130373       -0.096981        0.379839       -1.025601       -0.205481       -2.401097       -0.205481       -0.369926       -0.395525        0.015249        0.311070        0.952187        0.453143        1.155974       -0.364067       -2.738238       -0.364067       -0.430721       -0.486786        0.015641        0.551036       -1.025601       -0.009075       -0.002114        0.142370        0.015641        0.026362        0.002427               0               0               0        0.033444               0       -0.016296       -0.078166               0               0        1.261681       -2.565419       -3.818383       -2.577603               0        0.147801       -0.064302       -0.041563        0.022613       -0.220706
+rs(-1)                             0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0        1.000000               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0               0
+kb(-1)                     -0.065207        0.064626        0.034483        0.029376        0.094002        0.029376       -0.150961       -0.213357        0.392387       -0.037691       -0.740618        1.750499        0.400652        4.681713        0.400652        0.721290        0.771204       -0.026938       -0.606531       -0.113270        0.985002       -1.358111       -0.791378       -5.952144       -0.791378       -0.936265       -1.058134       -0.027213        1.197794        0.750499        0.890061       -0.166594        0.447989       -0.027213        0.078669        0.007305               0               0               0        0.094002               0       -0.027098        0.110203               0               0       -1.686609        0.698800       -8.300071        4.399460               0        0.444842       -0.201834       -0.090876        0.063559       -0.042790
+a(-1)                      -1.043539        1.034246        0.016420        0.415543        1.449789        0.415543        0.027325       -0.160989        1.641956        0.013551       -0.373435        1.011671        0.202017        2.360617        0.202017        0.363690        0.388857       -0.241412       -0.305825        0.013774       -0.457129        0.630285        0.367270        2.762325        0.367270        0.434510        0.491068       -0.241633       -0.555883        1.011671       -0.004019       -0.224285        2.895377       -0.241633        0.791060        0.030568               0        0.950000               0        1.449789               0        0.995197       27.815003               0               0        0.099645        2.924149        3.851972        2.542594               0        1.861452       -0.164111       -0.187093        0.980266        0.259540
+sigma(-1)                   0.040840       -0.040476       -0.027164       -0.033575       -0.074051       -0.033575        0.136321        0.157338       -0.293981        0.104173        0.048305        0.009260        0.609982        7.127793        0.609982       -0.073686        0.001077        0.021014       -0.835710        0.032149        0.284937       -0.303241        0.657681        4.946580        0.657681       -0.317416       -0.217223        0.021006       -0.834226        0.009260        0.001294        0.021170       -0.325024        0.021006       -0.069303       -0.005473               0               0               0       -0.074051        0.980000        0.031948       -0.100160               0               0       -0.233685       -0.523548       -1.853249        0.023273               0       -0.333280        0.188614        0.150395       -0.050069        0.618856
+fshock(-1)                 -0.012886        0.012771       -0.000564       -0.014310       -0.001538       -0.014310       -0.434685       -0.010740        0.013631       -0.308077       -0.002904        0.008007        0.001571        0.018360        0.001571        0.002829        0.003024       -0.011251       -0.002379       -0.126608       -0.004079        0.005624        0.003277        0.024648        0.003277        0.003877        0.004382       -0.011254       -0.004960        0.008007       -0.000567       -0.011116        0.029630       -0.011254       -0.003387        0.000254               0               0               0       -0.001538               0        0.014338       -0.020415        0.820000               0        0.001271        0.024276        0.034371        0.020125               0        0.015454       -0.010688       -0.010892       -0.001040        0.002172
+inv(-1)                     0.484019       -0.479709        0.075139        0.684541        0.204832        0.684541        0.085175        0.173676       -0.044788        0.060695        0.006791       -0.020900       -0.003674       -0.042926       -0.003674       -0.006613       -0.007071        0.173085        0.005561        0.024480        0.017325       -0.023888       -0.013920       -0.104693       -0.013920       -0.016468       -0.018612        0.173031        0.021068       -0.020900        0.009715        0.172731       -0.682352        0.173031       -0.516258       -0.000834               0               0               0        0.204832               0       -0.682692        0.053073               0               0       -0.010309       -0.079764       -0.145991       -0.052528               0       -0.050776        0.172360        0.173240        0.138496       -0.007362
+ai(-1)                     -0.034514        0.034207       -0.014822       -0.074613       -0.040406       -0.074613        0.008941        0.027921       -0.078782        0.006644        0.017465       -0.047613       -0.009448       -0.110402       -0.009448       -0.017009       -0.018186        0.031437        0.014303        0.002297        0.022606       -0.031168       -0.018162       -0.136601       -0.018162       -0.021487       -0.024284        0.031468        0.027489       -0.047613        0.001339        0.030631       -0.026892        0.031468        0.049961       -0.001467               0               0               0       -0.040406               0        0.073967       -0.063571               0        0.910000       -0.005832       -0.140302       -0.190485       -0.119665               0       -0.089313        0.027904        0.029033       -0.027320       -0.012498
+ea                          1.098462       -1.088680       -0.017285       -0.437414       -1.526094       -0.437414       -0.028764        0.169462       -1.728375       -0.014264        0.393090       -1.064917       -0.212649       -2.484860       -0.212649       -0.382831       -0.409323        0.254118        0.321921       -0.014499        0.481188       -0.663458       -0.386600       -2.907711       -0.386600       -0.457379       -0.516914        0.254350        0.585140       -1.064917        0.004231        0.236090       -3.047766        0.254350       -0.832695       -0.032177               0       -1.000000               0       -1.526094               0       -1.047576      -29.278950               0               0       -0.104889       -3.078051       -4.054708       -2.676415               0       -1.959424        0.172749        0.196940       -1.031859       -0.273200
+esigma                      0.011669       -0.011565       -0.007761       -0.009593       -0.021158       -0.009593        0.038949        0.044954       -0.083994        0.029764        0.013801        0.002646        0.174281        2.036512        0.174281       -0.021053        0.000308        0.006004       -0.238774        0.009185        0.081411       -0.086640        0.187909        1.413309        0.187909       -0.090690       -0.062064        0.006002       -0.238350        0.002646        0.000370        0.006049       -0.092864        0.006002       -0.019801       -0.001564               0               0               0       -0.021158        0.280000        0.009128       -0.028617               0               0       -0.066767       -0.149585       -0.529500        0.006649               0       -0.095223        0.053890        0.042970       -0.014306        0.176816
+efshock                    -0.015715        0.015575       -0.000688       -0.017451       -0.001876       -0.017451       -0.530104       -0.013097        0.016624       -0.375703       -0.003542        0.009765        0.001916        0.022390        0.001916        0.003450        0.003688       -0.013721       -0.002901       -0.154400       -0.004974        0.006859        0.003996        0.030059        0.003996        0.004728        0.005344       -0.013724       -0.006049        0.009765       -0.000691       -0.013556        0.036134       -0.013724       -0.004130        0.000309               0               0               0       -0.001876               0        0.017486       -0.024897        1.000000               0        0.001550        0.029605        0.041916        0.024543               0        0.018846       -0.013034       -0.013283       -0.001268        0.002649
+eai                        -0.037928        0.037590       -0.016288       -0.081992       -0.044402       -0.081992        0.009825        0.030682       -0.086573        0.007301        0.019192       -0.052322       -0.010382       -0.121321       -0.010382       -0.018691       -0.019985        0.034546        0.015718        0.002524        0.024841       -0.034251       -0.019958       -0.150111       -0.019958       -0.023612       -0.026686        0.034580        0.030208       -0.052322        0.001472        0.033660       -0.029551        0.034580        0.054902       -0.001612               0               0               0       -0.044402               0        0.081282       -0.069858               0        1.000000       -0.006409       -0.154178       -0.209325       -0.131500               0       -0.098146        0.030664        0.031904       -0.030022       -0.013734
+evk                         0.003581       -0.003549       -0.001423       -0.000330       -0.003879       -0.000330        0.003287        0.009712       -0.017471       -0.000521        0.020969       -0.056817       -0.011344       -0.132552       -0.011344       -0.020422       -0.021835        0.004220        0.017172        0.003808       -0.028536        0.039346        0.022927        0.172439        0.022927        0.027124        0.030655        0.004241       -0.034701       -0.056817        0.005420        0.013258       -0.020844        0.004241       -0.003406       -0.000325               0               0      -10.000000       -0.003879               0        0.000227        0.000132               0               0        0.051148       -0.031114        0.240460       -0.142795        0.100000       -0.019806        0.009348        0.011174       -0.002623        0.001484
+
+
+THEORETICAL MOMENTS
+
+VARIABLE        MEAN    STD. DEV.   VARIANCE 
+lambda           1.0045     0.0360     0.0013
+c                0.9955     0.0357     0.0013
+h                0.3333     0.0031     0.0000
+inv              0.4834     0.0392     0.0015
+y                1.4790     0.0706     0.0050
+k               19.3375     0.8840     0.7814
+ne               0.5615     0.0257     0.0007
+atilde           1.0245     0.0024     0.0000
+b                0.8821     0.0520     0.0027
+nc               0.3979     0.0462     0.0021
+Hc               0.4141     0.0099     0.0001
+bc               0.5907     0.0695     0.0048
+Fc               0.0397     0.0070     0.0000
+vc              -1.7546     0.0819     0.0067
+H1c             -0.9603     0.0070     0.0000
+Gc               0.5842     0.0099     0.0001
+omegacbar        0.5883     0.0098     0.0001
+rc               1.0017     0.0034     0.0000
+G1c              0.9353     0.0096     0.0001
+ns               0.1636     0.0393     0.0015
+Hs               0.3700     0.0122     0.0001
+bs               0.2914     0.0722     0.0052
+Fs               0.0691     0.0097     0.0001
+vs              -1.4824     0.0730     0.0053
+H1s             -0.9309     0.0097     0.0001
+Gs               0.6262     0.0121     0.0001
+omegasbar        0.6349     0.0123     0.0002
+rs               1.0019     0.0034     0.0000
+G1s              0.8848     0.0133     0.0002
+dc               0.5316     0.0633     0.0040
+kb               0.0591     0.0066     0.0000
+rcl              1.0017     0.0030     0.0000
+w                2.6608     0.1108     0.0123
+rp               1.0019     0.0034     0.0000
+q                1.0000     0.0113     0.0001
+rk               0.0269     0.0009     0.0000
+rstilde          1.0019     0.0034     0.0000
+a                1.0000     0.0320     0.0010
+vk              10.0000     0.1000     0.0100
+gdp              1.4790     0.0706     0.0050
+sigma            0.2800     0.0141     0.0002
+utility         -0.4500     0.0322     0.0010
+totutility    -240.4508     1.6216     2.6295
+fshock           1.0000     0.0000     0.0000
+ai               1.0000     0.0000     0.0000
+bsshare          0.3303     0.0760     0.0058
+levtot           1.5709     0.0776     0.0060
+levs             1.7808     0.0982     0.0096
+levc             1.4846     0.0633     0.0040
+car              0.1000     0.0010     0.0000
+lnb             -0.1255     0.0590     0.0035
+zs               1.0157     0.0027     0.0000
+zc               1.0087     0.0028     0.0000
+lngdp            0.3913     0.0477     0.0023
+Ftot             0.0494     0.0080     0.0001
+
+
+
+VARIANCE DECOMPOSITION (in percent)
+
+                ea     esigma  efshock    eai      evk   
+lambda          99.97     0.03     0.00     0.00     0.00
+c               99.97     0.03     0.00     0.00     0.00
+h               99.12     0.88     0.00     0.00     0.00
+inv             99.94     0.06     0.00     0.00     0.00
+y               99.96     0.04     0.00     0.00     0.00
+k               99.90     0.10     0.00     0.00     0.00
+ne              84.37    15.63     0.00     0.00     0.00
+atilde          72.92    26.91     0.00     0.00     0.17
+b               93.87     6.13     0.00     0.00     0.00
+nc              25.52    74.48     0.00     0.00     0.01
+Hc              54.23    45.71     0.00     0.00     0.06
+bc              33.03    66.95     0.00     0.00     0.02
+Fc              31.45    68.52     0.00     0.00     0.03
+vc              31.45    68.52     0.00     0.00     0.03
+H1c             31.45    68.52     0.00     0.00     0.03
+Gc              51.51    48.44     0.00     0.00     0.05
+omegacbar       59.42    40.52     0.00     0.00     0.06
+rc              99.93     0.06     0.00     0.00     0.02
+G1c             38.30    61.66     0.00     0.00     0.04
+ns              23.70    76.30     0.00     0.00     0.01
+Hs              55.71    44.23     0.00     0.00     0.06
+bs              25.70    74.29     0.00     0.00     0.01
+Fs              57.21    42.73     0.00     0.00     0.07
+vs              57.21    42.73     0.00     0.00     0.07
+H1s             57.21    42.73     0.00     0.00     0.07
+Gs              51.64    48.30     0.00     0.00     0.06
+omegasbar       63.17    36.75     0.00     0.00     0.07
+rs              99.93     0.05     0.00     0.00     0.02
+G1s             69.65    30.27     0.00     0.00     0.08
+dc              34.52    65.47     0.00     0.00     0.02
+kb              25.89    74.08     0.00     0.00     0.04
+rcl             99.73     0.07     0.00     0.00     0.19
+w               99.90     0.10     0.00     0.00     0.00
+rp              99.93     0.05     0.00     0.00     0.02
+q               99.95     0.05     0.00     0.00     0.00
+rk              99.84     0.16     0.00     0.00     0.00
+rstilde         99.93     0.05     0.00     0.00     0.02
+a              100.00     0.00     0.00     0.00     0.00
+vk               0.00     0.00     0.00     0.00   100.00
+gdp             99.96     0.04     0.00     0.00     0.00
+sigma            0.00   100.00     0.00     0.00     0.00
+utility         99.95     0.05     0.00     0.00     0.00
+totutility      99.97     0.03     0.00     0.00     0.00
+fshock           0.00     0.00   100.00     0.00     0.00
+ai               0.00     0.00     0.00   100.00     0.00
+bsshare         19.23    80.76     0.00     0.00     0.01
+levtot          56.40    43.60     0.00     0.00     0.00
+levs            61.52    38.41     0.00     0.00     0.07
+levc            61.10    38.84     0.00     0.00     0.06
+car              0.00     0.00     0.00     0.00   100.00
+lnb             93.87     6.13     0.00     0.00     0.00
+zs              59.44    40.43     0.00     0.00     0.12
+zc              77.62    22.21     0.00     0.00     0.16
+lngdp           99.96     0.04     0.00     0.00     0.00
+Ftot            42.37    57.63     0.00     0.00     0.00
+
+
+
+MATRIX OF CORRELATIONS
+
+Variables      lambda         c           h          inv          y           k          ne        atilde         b          nc          Hc          bc          Fc          vc          H1c         Gc       omegacbar      rc          G1c         ns          Hs          bs          Fs          vs          H1s         Gs       omegasbar      rs          G1s         dc          kb          rcl          w          rp           q          rk        rstilde        a          vk          gdp        sigma      utility   totutility    bsshare     levtot       levs        levc         car         lnb         zs          zc         lngdp       Ftot    
+lambda            1.0000     -1.0000     -0.5295     -0.7771     -0.9370     -0.8826     -0.7958      0.4745     -0.8856     -0.2507      0.3042     -0.3609     -0.2172     -0.2172     -0.2172     -0.2969     -0.3176      0.5447      0.2411     -0.2253      0.3241     -0.2903     -0.3138     -0.3138     -0.3138     -0.3126     -0.3440      0.5447      0.3482     -0.3720     -0.2363      0.5461     -0.9813      0.5447     -0.4700     -0.1794      0.4513     -0.8538     -0.0010     -0.9370      0.0111     -0.9752     -0.9790     -0.0859     -0.3314     -0.3397     -0.3231      0.0010     -0.8856      0.4327      0.4999     -0.9370     -0.2766
+c                -1.0000      1.0000      0.5295      0.7771      0.9370      0.8826      0.7958     -0.4745      0.8856      0.2507     -0.3042      0.3609      0.2172      0.2172      0.2172      0.2969      0.3176     -0.5447     -0.2411      0.2253     -0.3241      0.2903      0.3138      0.3138      0.3138      0.3126      0.3440     -0.5447     -0.3482      0.3720      0.2363     -0.5461      0.9813     -0.5447      0.4700      0.1794     -0.4513      0.8538      0.0010      0.9370     -0.0111      0.9752      0.9790      0.0859      0.3314      0.3397      0.3231     -0.0010      0.8856     -0.4327     -0.4999      0.9370      0.2766
+h                -0.5295      0.5295      1.0000      0.9415      0.7904      0.2930      0.6001     -0.0581      0.7735      0.2122     -0.3868      0.3425      0.1754      0.1754      0.1754      0.3805      0.3980     -0.2543     -0.2055      0.1427     -0.4268      0.2274      0.3126      0.3126      0.3126      0.4160      0.4451     -0.2555     -0.3608      0.3576      0.1947     -0.2134      0.6828     -0.2555      0.3513      0.7685     -0.3794      0.8646      0.0045      0.7904     -0.0914      0.3285      0.6448      0.0467      0.4031      0.4412      0.4037     -0.0045      0.7735     -0.0841     -0.1568      0.7904      0.2408
+inv              -0.7771      0.7771      0.9415      1.0000      0.9480      0.5790      0.7843     -0.1619      0.8953      0.2687     -0.3467      0.3873      0.2314      0.2314      0.2314      0.3389      0.3610     -0.3513     -0.2586      0.1966     -0.3831      0.2719      0.3554      0.3554      0.3554      0.3703      0.4054     -0.3521     -0.3965      0.4017      0.2415     -0.3210      0.8828     -0.3521      0.3925      0.6061     -0.4363      0.9609      0.0001      0.9480     -0.0251      0.6195      0.8623      0.0635      0.3724      0.4006      0.3676     -0.0001      0.8953     -0.1629     -0.2447      0.9480      0.2953
+y                -0.9370      0.9370      0.7904      0.9480      1.0000      0.7676      0.8377     -0.3298      0.9447      0.2759     -0.3463      0.3975      0.2382      0.2382      0.2382      0.3382      0.3610     -0.4704     -0.2655      0.2230     -0.3765      0.2977      0.3559      0.3559      0.3559      0.3636      0.3989     -0.4709     -0.3961      0.4111      0.2536     -0.4543      0.9862     -0.4709      0.4555      0.4271     -0.4704      0.9651      0.0005      1.0000     -0.0195      0.8369      0.9736      0.0786      0.3742      0.3941      0.3674     -0.0005      0.9447     -0.3092     -0.3886      1.0000      0.3038
+k                -0.8826      0.8826      0.2930      0.5790      0.7676      1.0000      0.7944     -0.2249      0.6327      0.2419      0.0195      0.2360     -0.0474     -0.0474     -0.0474     -0.0180     -0.0223     -0.1364      0.0490      0.2347      0.0048      0.2285     -0.0376     -0.0376     -0.0376     -0.0032     -0.0077     -0.1361      0.0372      0.2331      0.2469     -0.1512      0.8266     -0.1361      0.0214     -0.2505     -0.1520      0.5777      0.0000      0.7676     -0.0250      0.9062      0.8912      0.0840      0.0070     -0.0071     -0.0220     -0.0000      0.6327     -0.2012     -0.1919      0.7676     -0.0193
+ne               -0.7958      0.7958      0.6001      0.7843      0.8377      0.7944      1.0000      0.0530      0.6137      0.5255      0.1947      0.4558      0.3060      0.3060      0.3060     -0.2033     -0.1776     -0.1302     -0.2921      0.0359      0.1597      0.0032      0.2953      0.2953      0.2953     -0.1731     -0.1341     -0.1316     -0.2653      0.4559      0.4329     -0.1253      0.8215     -0.1316      0.0958      0.1252     -0.1780      0.7397     -0.0013      0.8377      0.3486      0.7295      0.8630     -0.1539     -0.1914     -0.1399     -0.1703      0.0013      0.6137      0.1080      0.0315      0.8377      0.2543
+atilde            0.4745     -0.4745     -0.0581     -0.1619     -0.3298     -0.2249      0.0530      1.0000     -0.5311      0.0746      0.7091     -0.1820      0.1158      0.1158      0.1158     -0.7106     -0.7044      0.7923     -0.0619     -0.0530      0.7194     -0.2072     -0.0690     -0.0690     -0.0690     -0.7204     -0.7140      0.7919      0.1636     -0.1974     -0.0193      0.8115     -0.4219      0.7919     -0.7343     -0.2328      0.3756     -0.3663     -0.0400     -0.3298      0.5032     -0.5132     -0.3365     -0.0872     -0.6871     -0.7156     -0.7041      0.0400     -0.5311      0.9883      0.9859     -0.3298      0.0159
+b                -0.8856      0.8856      0.7735      0.8953      0.9447      0.6327      0.6137     -0.5311      1.0000      0.1015     -0.6224      0.3211      0.1772      0.1772      0.1772      0.6154      0.6344     -0.6289     -0.2254      0.2816     -0.6453      0.4110      0.3553      0.3553      0.3553      0.6339      0.6637     -0.6288     -0.4316      0.3410      0.1227     -0.6095      0.9381     -0.6288      0.6258      0.5465     -0.5829      0.9556      0.0034      0.9447     -0.2277      0.7840      0.8922      0.1866      0.6564      0.6599      0.6395     -0.0034      1.0000     -0.5303     -0.6030      0.9447      0.2980
+nc               -0.2507      0.2507      0.2122      0.2687      0.2759      0.2419      0.5255      0.0746      0.1015      1.0000      0.1448      0.9386      0.1709      0.1709      0.1709     -0.1494     -0.1353     -0.0322     -0.1603     -0.8314      0.1192     -0.8304      0.1621      0.1621      0.1621     -0.1267     -0.1046     -0.0382     -0.1414      0.9300      0.9710     -0.0294      0.2640     -0.0382      0.0321      0.0652     -0.0544      0.2517      0.0001      0.2759      0.2157      0.2240      0.2802     -0.9209     -0.3648     -0.1080     -0.1314     -0.0001      0.1015      0.1044      0.0638      0.2759     -0.0922
+Hc                0.3042     -0.3042     -0.3868     -0.3467     -0.3463      0.0195      0.1947      0.7091     -0.6224      0.1448      1.0000     -0.2051      0.0778      0.0778      0.0778     -0.9996     -0.9983      0.6573     -0.0015     -0.0428      0.9920     -0.2508     -0.1606     -0.1606     -0.1606     -0.9907     -0.9898      0.6576      0.2892     -0.2275      0.0117      0.6367     -0.3497      0.6576     -0.6950     -0.5846      0.5649     -0.4645     -0.0213     -0.3463      0.6441     -0.2378     -0.2493     -0.1107     -0.9624     -0.9909     -0.9973      0.0213     -0.6224      0.7669      0.7828     -0.3463     -0.0496
+bc               -0.3609      0.3609      0.3425      0.3873      0.3975      0.2360      0.4558     -0.1820      0.3211      0.9386     -0.2051      1.0000      0.1510      0.1510      0.1510      0.2000      0.2144     -0.2726     -0.1672     -0.8048     -0.2277     -0.7314      0.2255      0.2255      0.2255      0.2195      0.2421     -0.2786     -0.2495      0.9995      0.9543     -0.2632      0.3885     -0.2786      0.2844      0.2695     -0.2549      0.4152      0.0082      0.3975     -0.0040      0.3127      0.3686     -0.8705     -0.0245      0.2390      0.2181     -0.0082      0.3211     -0.1704     -0.2183      0.3975     -0.0644
+Fc               -0.2172      0.2172      0.1754      0.2314      0.2382     -0.0474      0.3060      0.1158      0.1772      0.1709      0.0778      0.1510      1.0000      1.0000      1.0000     -0.1074     -0.0204     -0.4945     -0.9971     -0.0008      0.1011     -0.0177      0.9636      0.9636      0.9636     -0.1423     -0.0237     -0.4948     -0.9219      0.1679     -0.0124     -0.4790      0.2268     -0.4948      0.5179      0.4066     -0.4243      0.3537      0.0162      0.2382      0.8128      0.1960      0.1713     -0.0645     -0.0337     -0.0411     -0.0047     -0.0162      0.1772      0.2331      0.0055      0.2382      0.9529
+vc               -0.2172      0.2172      0.1754      0.2314      0.2382     -0.0474      0.3060      0.1158      0.1772      0.1709      0.0778      0.1510      1.0000      1.0000      1.0000     -0.1074     -0.0204     -0.4945     -0.9971     -0.0008      0.1011     -0.0177      0.9636      0.9636      0.9636     -0.1423     -0.0237     -0.4948     -0.9219      0.1679     -0.0124     -0.4790      0.2268     -0.4948      0.5179      0.4066     -0.4243      0.3537      0.0162      0.2382      0.8128      0.1960      0.1713     -0.0645     -0.0337     -0.0411     -0.0047     -0.0162      0.1772      0.2331      0.0055      0.2382      0.9529
+H1c              -0.2172      0.2172      0.1754      0.2314      0.2382     -0.0474      0.3060      0.1158      0.1772      0.1709      0.0778      0.1510      1.0000      1.0000      1.0000     -0.1074     -0.0204     -0.4945     -0.9971     -0.0008      0.1011     -0.0177      0.9636      0.9636      0.9636     -0.1423     -0.0237     -0.4948     -0.9219      0.1679     -0.0124     -0.4790      0.2268     -0.4948      0.5179      0.4066     -0.4243      0.3537      0.0162      0.2382      0.8128      0.1960      0.1713     -0.0645     -0.0337     -0.0411     -0.0047     -0.0162      0.1772      0.2331      0.0055      0.2382      0.9529
+Gc               -0.2969      0.2969      0.3805      0.3389      0.3382     -0.0180     -0.2033     -0.7106      0.6154     -0.1494     -0.9996      0.2000     -0.1074     -0.1074     -0.1074      1.0000      0.9962     -0.6407      0.0312      0.0427     -0.9923      0.2506      0.1315      0.1315      0.1315      0.9922      0.9878     -0.6410     -0.2609      0.2219     -0.0113     -0.6207      0.3420     -0.6410      0.6777      0.5709     -0.5507      0.4527      0.0207      0.3382     -0.6665      0.2313      0.2435      0.1123      0.9608      0.9894      0.9947     -0.0207      0.6154     -0.7717     -0.7808      0.3382      0.0211
+omegacbar        -0.3176      0.3176      0.3980      0.3610      0.3610     -0.0223     -0.1776     -0.7044      0.6344     -0.1353     -0.9983      0.2144     -0.0204     -0.0204     -0.0204      0.9962      1.0000     -0.6876     -0.0560      0.0429     -0.9890      0.2505      0.2166      0.2166      0.2166      0.9853      0.9913     -0.6880     -0.3431      0.2379     -0.0124     -0.6662      0.3638     -0.6880      0.7268      0.6097     -0.5909      0.4862      0.0222      0.3610     -0.5990      0.2498      0.2599      0.1073      0.9632      0.9913      0.9998     -0.0222      0.6344     -0.7556     -0.7847      0.3610      0.1047
+rc                0.5447     -0.5447     -0.2543     -0.3513     -0.4704     -0.1364     -0.1302      0.7923     -0.6289     -0.0322      0.6573     -0.2726     -0.4945     -0.4945     -0.4945     -0.6407     -0.6876      1.0000      0.5463     -0.0473      0.6593     -0.1905     -0.6621     -0.6621     -0.6621     -0.6350     -0.7016      1.0000      0.7313     -0.2988     -0.0099      0.9975     -0.5268      1.0000     -0.9834     -0.5499      0.6488     -0.5915     -0.0126     -0.4704      0.0046     -0.5402     -0.4113     -0.0441     -0.6636     -0.6925     -0.6971      0.0126     -0.6289      0.7254      0.8647     -0.4704     -0.5667
+G1c               0.2411     -0.2411     -0.2055     -0.2586     -0.2655      0.0490     -0.2921     -0.0619     -0.2254     -0.1603     -0.0015     -0.1672     -0.9971     -0.9971     -0.9971      0.0312     -0.0560      0.5463      1.0000     -0.0024     -0.0254     -0.0014     -0.9788     -0.9788     -0.9788      0.0669     -0.0520      0.5466      0.9468     -0.1859      0.0134      0.5292     -0.2543      0.5466     -0.5727     -0.4525      0.4688     -0.3904     -0.0179     -0.2655     -0.7660     -0.2148     -0.1909      0.0563     -0.0399     -0.0346     -0.0716      0.0179     -0.2254     -0.1751      0.0544     -0.2655     -0.9596
+ns               -0.2253      0.2253      0.1427      0.1966      0.2230      0.2347      0.0359     -0.0530      0.2816     -0.8314     -0.0428     -0.8048     -0.0008     -0.0008     -0.0008      0.0427      0.0429     -0.0473     -0.0024      1.0000     -0.0357      0.9775      0.0025      0.0025      0.0025      0.0358      0.0353     -0.0411     -0.0072     -0.7946     -0.8578     -0.0473      0.2264     -0.0411      0.0249      0.0052     -0.0524      0.1875     -0.0010      0.2230     -0.0257      0.2133      0.2345      0.9812      0.3035      0.0354      0.0431      0.0010      0.2816     -0.0521     -0.0544      0.2230      0.2745
+Hs                0.3241     -0.3241     -0.4268     -0.3831     -0.3765      0.0048      0.1597      0.7194     -0.6453      0.1192      0.9920     -0.2277      0.1011      0.1011      0.1011     -0.9923     -0.9890      0.6593     -0.0254     -0.0357      1.0000     -0.2455     -0.1514     -0.1514     -0.1514     -0.9991     -0.9970      0.6598      0.2813     -0.2506     -0.0068      0.6352     -0.3759      0.6598     -0.7009     -0.6098      0.5759     -0.4955      0.0233     -0.3765      0.6572     -0.2494     -0.2748     -0.0992     -0.9563     -0.9982     -0.9885     -0.0233     -0.6453      0.7783      0.7931     -0.3765     -0.0291
+bs               -0.2903      0.2903      0.2274      0.2719      0.2977      0.2285      0.0032     -0.2072      0.4110     -0.8304     -0.2508     -0.7314     -0.0177     -0.0177     -0.0177      0.2506      0.2505     -0.1905     -0.0014      0.9775     -0.2455      1.0000      0.0387      0.0387      0.0387      0.2452      0.2449     -0.1846     -0.0706     -0.7165     -0.8303     -0.1856      0.3016     -0.1846      0.1770      0.1342     -0.1744      0.2885     -0.0054      0.2977     -0.1602      0.2636      0.2877      0.9723      0.4963      0.2452      0.2506      0.0054      0.4110     -0.2178     -0.2241      0.2977      0.2766
+Fs               -0.3138      0.3138      0.3126      0.3554      0.3559     -0.0376      0.2953     -0.0690      0.3553      0.1621     -0.1606      0.2255      0.9636      0.9636      0.9636      0.1315      0.2166     -0.6621     -0.9788      0.0025     -0.1514      0.0387      1.0000      1.0000      1.0000      0.1100      0.2279     -0.6625     -0.9911      0.2486      0.0033     -0.6377      0.3412     -0.6625      0.6988      0.5791     -0.5777      0.5021     -0.0236      0.3559      0.6455      0.2678      0.2598     -0.0493      0.1976      0.2108      0.2327      0.0236      0.3553      0.0336     -0.1983      0.3559      0.9504
+vs               -0.3138      0.3138      0.3126      0.3554      0.3559     -0.0376      0.2953     -0.0690      0.3553      0.1621     -0.1606      0.2255      0.9636      0.9636      0.9636      0.1315      0.2166     -0.6621     -0.9788      0.0025     -0.1514      0.0387      1.0000      1.0000      1.0000      0.1100      0.2279     -0.6625     -0.9911      0.2486      0.0033     -0.6377      0.3412     -0.6625      0.6988      0.5791     -0.5777      0.5021     -0.0236      0.3559      0.6455      0.2678      0.2598     -0.0493      0.1976      0.2108      0.2327      0.0236      0.3553      0.0336     -0.1983      0.3559      0.9504
+H1s              -0.3138      0.3138      0.3126      0.3554      0.3559     -0.0376      0.2953     -0.0690      0.3553      0.1621     -0.1606      0.2255      0.9636      0.9636      0.9636      0.1315      0.2166     -0.6621     -0.9788      0.0025     -0.1514      0.0387      1.0000      1.0000      1.0000      0.1100      0.2279     -0.6625     -0.9911      0.2486      0.0033     -0.6377      0.3412     -0.6625      0.6988      0.5791     -0.5777      0.5021     -0.0236      0.3559      0.6455      0.2678      0.2598     -0.0493      0.1976      0.2108      0.2327      0.0236      0.3553      0.0336     -0.1983      0.3559      0.9504
+Gs               -0.3126      0.3126      0.4160      0.3703      0.3636     -0.0032     -0.1731     -0.7204      0.6339     -0.1267     -0.9907      0.2195     -0.1423     -0.1423     -0.1423      0.9922      0.9853     -0.6350      0.0669      0.0358     -0.9991      0.2452      0.1100      0.1100      0.1100      1.0000      0.9928     -0.6354     -0.2410      0.2415      0.0067     -0.6118      0.3636     -0.6354      0.6753      0.5887     -0.5547      0.4770     -0.0224      0.3636     -0.6881      0.2395      0.2654      0.1018      0.9532      0.9948      0.9841      0.0224      0.6339     -0.7840     -0.7891      0.3636     -0.0109
+omegasbar        -0.3440      0.3440      0.4451      0.4054      0.3989     -0.0077     -0.1341     -0.7140      0.6637     -0.1046     -0.9898      0.2421     -0.0237     -0.0237     -0.0237      0.9878      0.9913     -0.7016     -0.0520      0.0353     -0.9970      0.2449      0.2279      0.2279      0.2279      0.9928      1.0000     -0.7021     -0.3551      0.2664      0.0070     -0.6759      0.3972     -0.7021      0.7454      0.6463     -0.6128      0.5276     -0.0248      0.3989     -0.5966      0.2668      0.2912      0.0938      0.9575      0.9998      0.9920      0.0248      0.6637     -0.7640     -0.7969      0.3989      0.1035
+rs                0.5447     -0.5447     -0.2555     -0.3521     -0.4709     -0.1361     -0.1316      0.7919     -0.6288     -0.0382      0.6576     -0.2786     -0.4948     -0.4948     -0.4948     -0.6410     -0.6880      1.0000      0.5466     -0.0411      0.6598     -0.1846     -0.6625     -0.6625     -0.6625     -0.6354     -0.7021      1.0000      0.7318     -0.3048     -0.0161      0.9974     -0.5271      1.0000     -0.9837     -0.5511      0.6492     -0.5921     -0.0126     -0.4709      0.0046     -0.5398     -0.4115     -0.0377     -0.6623     -0.6929     -0.6974      0.0126     -0.6288      0.7251      0.8644     -0.4709     -0.5652
+G1s               0.3482     -0.3482     -0.3608     -0.3965     -0.3961      0.0372     -0.2653      0.1636     -0.4316     -0.1414      0.2892     -0.2495     -0.9219     -0.9219     -0.9219     -0.2609     -0.3431      0.7313      0.9468     -0.0072      0.2813     -0.0706     -0.9911     -0.9911     -0.9911     -0.2410     -0.3551      0.7318      1.0000     -0.2750     -0.0041      0.7044     -0.3817      0.7318     -0.7725     -0.6441      0.6382     -0.5540      0.0261     -0.3961     -0.5384     -0.2935     -0.2891      0.0346     -0.3202     -0.3387     -0.3586     -0.0261     -0.4316      0.0719      0.2990     -0.3961     -0.9266
+dc               -0.3720      0.3720      0.3576      0.4017      0.4111      0.2331      0.4559     -0.1974      0.3410      0.9300     -0.2275      0.9995      0.1679      0.1679      0.1679      0.2219      0.2379     -0.2988     -0.1859     -0.7946     -0.2506     -0.7165      0.2486      0.2486      0.2486      0.2415      0.2664     -0.3048     -0.2750      1.0000      0.9441     -0.2883      0.4015     -0.3048      0.3124      0.2945     -0.2784      0.4345      0.0090      0.4111     -0.0041      0.3212      0.3777     -0.8596      0.0009      0.2630      0.2419     -0.0090      0.3410     -0.1850     -0.2379      0.4111     -0.0423
+kb               -0.2363      0.2363      0.1947      0.2415      0.2536      0.2469      0.4329     -0.0193      0.1227      0.9710      0.0117      0.9543     -0.0124     -0.0124     -0.0124     -0.0113     -0.0124     -0.0099      0.0134     -0.8578     -0.0068     -0.8303      0.0033      0.0033      0.0033      0.0067      0.0070     -0.0161     -0.0041      0.9441      1.0000     -0.0096      0.2477     -0.0161      0.0064      0.0317     -0.0295      0.2182     -0.0082      0.2536     -0.0027      0.2126      0.2646     -0.9263     -0.2559      0.0069     -0.0121      0.0082      0.1227     -0.0177     -0.0168      0.2536     -0.2646
+rcl               0.5461     -0.5461     -0.2134     -0.3210     -0.4543     -0.1512     -0.1253      0.8115     -0.6095     -0.0294      0.6367     -0.2632     -0.4790     -0.4790     -0.4790     -0.6207     -0.6662      0.9975      0.5292     -0.0473      0.6352     -0.1856     -0.6377     -0.6377     -0.6377     -0.6118     -0.6759      0.9974      0.7044     -0.2883     -0.0096      1.0000     -0.5187      0.9974     -0.9720     -0.5064      0.6211     -0.5664     -0.0435     -0.4543      0.0045     -0.5524     -0.4059     -0.0438     -0.6419     -0.6671     -0.6752      0.0435     -0.6095      0.7412      0.8749     -0.4543     -0.5478
+w                -0.9813      0.9813      0.6828      0.8828      0.9862      0.8266      0.8215     -0.4219      0.9381      0.2640     -0.3497      0.3885      0.2268      0.2268      0.2268      0.3420      0.3638     -0.5268     -0.2543      0.2264     -0.3759      0.3016      0.3412      0.3412      0.3412      0.3636      0.3972     -0.5271     -0.3817      0.4015      0.2477     -0.5187      1.0000     -0.5271      0.4845      0.3288     -0.4747      0.9314      0.0019      0.9862     -0.0303      0.9144      0.9894      0.0845      0.3768      0.3926      0.3698     -0.0019      0.9381     -0.3917     -0.4661      0.9862      0.2929
+rp                0.5447     -0.5447     -0.2555     -0.3521     -0.4709     -0.1361     -0.1316      0.7919     -0.6288     -0.0382      0.6576     -0.2786     -0.4948     -0.4948     -0.4948     -0.6410     -0.6880      1.0000      0.5466     -0.0411      0.6598     -0.1846     -0.6625     -0.6625     -0.6625     -0.6354     -0.7021      1.0000      0.7318     -0.3048     -0.0161      0.9974     -0.5271      1.0000     -0.9837     -0.5511      0.6492     -0.5921     -0.0126     -0.4709      0.0046     -0.5398     -0.4115     -0.0377     -0.6623     -0.6929     -0.6974      0.0126     -0.6288      0.7251      0.8644     -0.4709     -0.5652
+q                -0.4700      0.4700      0.3513      0.3925      0.4555      0.0214      0.0958     -0.7343      0.6258      0.0321     -0.6950      0.2844      0.5179      0.5179      0.5179      0.6777      0.7268     -0.9834     -0.5727      0.0249     -0.7009      0.1770      0.6988      0.6988      0.6988      0.6753      0.7454     -0.9837     -0.7725      0.3124      0.0064     -0.9720      0.4845     -0.9837      1.0000      0.6863     -0.6643      0.6133      0.0030      0.4555     -0.0087      0.4317      0.3573      0.0303      0.6983      0.7358      0.7368     -0.0030      0.6258     -0.6770     -0.8253      0.4555      0.5912
+rk               -0.1794      0.1794      0.7685      0.6061      0.4271     -0.2505      0.1252     -0.2328      0.5465      0.0652     -0.5846      0.2695      0.4066      0.4066      0.4066      0.5709      0.6097     -0.5499     -0.4525      0.0052     -0.6098      0.1342      0.5791      0.5791      0.5791      0.5887      0.6463     -0.5511     -0.6441      0.2945      0.0317     -0.5064      0.3288     -0.5511      0.6863      1.0000     -0.5044      0.6437      0.0036      0.4271     -0.0296     -0.0008      0.2146      0.0045      0.5874      0.6384      0.6186     -0.0036      0.5465     -0.2359     -0.3651      0.4271      0.4709
+rstilde           0.4513     -0.4513     -0.3794     -0.4363     -0.4704     -0.1520     -0.1780      0.3756     -0.5829     -0.0544      0.5649     -0.2549     -0.4243     -0.4243     -0.4243     -0.5507     -0.5909      0.6488      0.4688     -0.0524      0.5759     -0.1744     -0.5777     -0.5777     -0.5777     -0.5547     -0.6128      0.6492      0.6382     -0.2784     -0.0295      0.6211     -0.4747      0.6492     -0.6643     -0.5044      1.0000     -0.5625      0.0000     -0.4704      0.0045     -0.4035     -0.4015     -0.0385     -0.5739     -0.6048     -0.5994      0.0000     -0.5829      0.3558      0.4820     -0.4704     -0.4902
+a                -0.8538      0.8538      0.8646      0.9609      0.9651      0.5777      0.7397     -0.3663      0.9556      0.2517     -0.4645      0.4152      0.3537      0.3537      0.3537      0.4527      0.4862     -0.5915     -0.3904      0.1875     -0.4955      0.2885      0.5021      0.5021      0.5021      0.4770      0.5276     -0.5921     -0.5540      0.4345      0.2182     -0.5664      0.9314     -0.5921      0.6133      0.6437     -0.5625      1.0000      0.0000      0.9651      0.0000      0.7249      0.8850      0.0660      0.4899      0.5206      0.4947      0.0000      0.9556     -0.3434     -0.4554      0.9651      0.4264
+vk               -0.0010      0.0010      0.0045      0.0001      0.0005      0.0000     -0.0013     -0.0400      0.0034      0.0001     -0.0213      0.0082      0.0162      0.0162      0.0162      0.0207      0.0222     -0.0126     -0.0179     -0.0010      0.0233     -0.0054     -0.0236     -0.0236     -0.0236     -0.0224     -0.0248     -0.0126      0.0261      0.0090     -0.0082     -0.0435      0.0019     -0.0126      0.0030      0.0036      0.0000      0.0000      1.0000      0.0005      0.0000     -0.0001     -0.0000     -0.0067      0.0040     -0.0245      0.0225     -1.0000      0.0034     -0.0341     -0.0403      0.0005     -0.0019
+gdp              -0.9370      0.9370      0.7904      0.9480      1.0000      0.7676      0.8377     -0.3298      0.9447      0.2759     -0.3463      0.3975      0.2382      0.2382      0.2382      0.3382      0.3610     -0.4704     -0.2655      0.2230     -0.3765      0.2977      0.3559      0.3559      0.3559      0.3636      0.3989     -0.4709     -0.3961      0.4111      0.2536     -0.4543      0.9862     -0.4709      0.4555      0.4271     -0.4704      0.9651      0.0005      1.0000     -0.0195      0.8369      0.9736      0.0786      0.3742      0.3941      0.3674     -0.0005      0.9447     -0.3092     -0.3886      1.0000      0.3038
+sigma             0.0111     -0.0111     -0.0914     -0.0251     -0.0195     -0.0250      0.3486      0.5032     -0.2277      0.2157      0.6441     -0.0040      0.8128      0.8128      0.8128     -0.6665     -0.5990      0.0046     -0.7660     -0.0257      0.6572     -0.1602      0.6455      0.6455      0.6455     -0.6881     -0.5966      0.0046     -0.5384     -0.0041     -0.0027      0.0045     -0.0303      0.0046     -0.0087     -0.0296      0.0045      0.0000      0.0000     -0.0195      1.0000      0.0115     -0.0143     -0.1142     -0.5882     -0.6105     -0.5864      0.0000     -0.2277      0.6270      0.4616     -0.0195      0.7022
+utility          -0.9752      0.9752      0.3285      0.6195      0.8369      0.9062      0.7295     -0.5132      0.7840      0.2240     -0.2378      0.3127      0.1960      0.1960      0.1960      0.2313      0.2498     -0.5402     -0.2148      0.2133     -0.2494      0.2636      0.2678      0.2678      0.2678      0.2395      0.2668     -0.5398     -0.2935      0.3212      0.2126     -0.5524      0.9144     -0.5398      0.4317     -0.0008     -0.4035      0.7249     -0.0001      0.8369      0.0115      1.0000      0.9217      0.0830      0.2636      0.2630      0.2544      0.0001      0.7840     -0.4598     -0.5157      0.8369      0.2451
+totutility       -0.9790      0.9790      0.6448      0.8623      0.9736      0.8912      0.8630     -0.3365      0.8922      0.2802     -0.2493      0.3686      0.1713      0.1713      0.1713      0.2435      0.2599     -0.4113     -0.1909      0.2345     -0.2748      0.2877      0.2598      0.2598      0.2598      0.2654      0.2912     -0.4115     -0.2891      0.3777      0.2646     -0.4059      0.9894     -0.4115      0.3573      0.2146     -0.4015      0.8850     -0.0000      0.9736     -0.0143      0.9217      1.0000      0.0813      0.2776      0.2876      0.2648      0.0000      0.8922     -0.3098     -0.3671      0.9736      0.2269
+bsshare          -0.0859      0.0859      0.0467      0.0635      0.0786      0.0840     -0.1539     -0.0872      0.1866     -0.9209     -0.1107     -0.8705     -0.0645     -0.0645     -0.0645      0.1123      0.1073     -0.0441      0.0563      0.9812     -0.0992      0.9723     -0.0493     -0.0493     -0.0493      0.1018      0.0938     -0.0377      0.0346     -0.8596     -0.9263     -0.0438      0.0845     -0.0377      0.0303      0.0045     -0.0385      0.0660     -0.0067      0.0786     -0.1142      0.0830      0.0813      1.0000      0.3665      0.0950      0.1061      0.0067      0.1866     -0.0988     -0.0869      0.0786      0.2217
+levtot           -0.3314      0.3314      0.4031      0.3724      0.3742      0.0070     -0.1914     -0.6871      0.6564     -0.3648     -0.9624     -0.0245     -0.0337     -0.0337     -0.0337      0.9608      0.9632     -0.6636     -0.0399      0.3035     -0.9563      0.4963      0.1976      0.1976      0.1976      0.9532      0.9575     -0.6623     -0.3202      0.0009     -0.2559     -0.6419      0.3768     -0.6623      0.6983      0.5874     -0.5739      0.4899      0.0040      0.3742     -0.5882      0.2636      0.2776      0.3665      1.0000      0.9578      0.9631     -0.0040      0.6564     -0.7373     -0.7636      0.3742      0.1616
+levs             -0.3397      0.3397      0.4412      0.4006      0.3941     -0.0071     -0.1399     -0.7156      0.6599     -0.1080     -0.9909      0.2390     -0.0411     -0.0411     -0.0411      0.9894      0.9913     -0.6925     -0.0346      0.0354     -0.9982      0.2452      0.2108      0.2108      0.2108      0.9948      0.9998     -0.6929     -0.3387      0.2630      0.0069     -0.6671      0.3926     -0.6929      0.7358      0.6384     -0.6048      0.5206     -0.0245      0.3941     -0.6105      0.2630      0.2876      0.0950      0.9578      1.0000      0.9917      0.0245      0.6599     -0.7676     -0.7965      0.3941      0.0868
+levc             -0.3231      0.3231      0.4037      0.3676      0.3674     -0.0220     -0.1703     -0.7041      0.6395     -0.1314     -0.9973      0.2181     -0.0047     -0.0047     -0.0047      0.9947      0.9998     -0.6971     -0.0716      0.0431     -0.9885      0.2506      0.2327      0.2327      0.2327      0.9841      0.9920     -0.6974     -0.3586      0.2419     -0.0121     -0.6752      0.3698     -0.6974      0.7368      0.6186     -0.5994      0.4947      0.0225      0.3674     -0.5864      0.2544      0.2648      0.1061      0.9631      0.9917      1.0000     -0.0225      0.6395     -0.7533     -0.7863      0.3674      0.1200
+car               0.0010     -0.0010     -0.0045     -0.0001     -0.0005     -0.0000      0.0013      0.0400     -0.0034     -0.0001      0.0213     -0.0082     -0.0162     -0.0162     -0.0162     -0.0207     -0.0222      0.0126      0.0179      0.0010     -0.0233      0.0054      0.0236      0.0236      0.0236      0.0224      0.0248      0.0126     -0.0261     -0.0090      0.0082      0.0435     -0.0019      0.0126     -0.0030     -0.0036      0.0000      0.0000     -1.0000     -0.0005      0.0000      0.0001      0.0000      0.0067     -0.0040      0.0245     -0.0225      1.0000     -0.0034      0.0341      0.0403     -0.0005      0.0019
+lnb              -0.8856      0.8856      0.7735      0.8953      0.9447      0.6327      0.6137     -0.5311      1.0000      0.1015     -0.6224      0.3211      0.1772      0.1772      0.1772      0.6154      0.6344     -0.6289     -0.2254      0.2816     -0.6453      0.4110      0.3553      0.3553      0.3553      0.6339      0.6637     -0.6288     -0.4316      0.3410      0.1227     -0.6095      0.9381     -0.6288      0.6258      0.5465     -0.5829      0.9556      0.0034      0.9447     -0.2277      0.7840      0.8922      0.1866      0.6564      0.6599      0.6395     -0.0034      1.0000     -0.5303     -0.6030      0.9447      0.2980
+zs                0.4327     -0.4327     -0.0841     -0.1629     -0.3092     -0.2012      0.1080      0.9883     -0.5303      0.1044      0.7669     -0.1704      0.2331      0.2331      0.2331     -0.7717     -0.7556      0.7254     -0.1751     -0.0521      0.7783     -0.2178      0.0336      0.0336      0.0336     -0.7840     -0.7640      0.7251      0.0719     -0.1850     -0.0177      0.7412     -0.3917      0.7251     -0.6770     -0.2359      0.3558     -0.3434     -0.0341     -0.3092      0.6270     -0.4598     -0.3098     -0.0988     -0.7373     -0.7676     -0.7533      0.0341     -0.5303      1.0000      0.9727     -0.3092      0.1223
+zc                0.4999     -0.4999     -0.1568     -0.2447     -0.3886     -0.1919      0.0315      0.9859     -0.6030      0.0638      0.7828     -0.2183      0.0055      0.0055      0.0055     -0.7808     -0.7847      0.8647      0.0544     -0.0544      0.7931     -0.2241     -0.1983     -0.1983     -0.1983     -0.7891     -0.7969      0.8644      0.2990     -0.2379     -0.0168      0.8749     -0.4661      0.8644     -0.8253     -0.3651      0.4820     -0.4554     -0.0403     -0.3886      0.4616     -0.5157     -0.3671     -0.0869     -0.7636     -0.7965     -0.7863      0.0403     -0.6030      0.9727      1.0000     -0.3886     -0.1004
+lngdp            -0.9370      0.9370      0.7904      0.9480      1.0000      0.7676      0.8377     -0.3298      0.9447      0.2759     -0.3463      0.3975      0.2382      0.2382      0.2382      0.3382      0.3610     -0.4704     -0.2655      0.2230     -0.3765      0.2977      0.3559      0.3559      0.3559      0.3636      0.3989     -0.4709     -0.3961      0.4111      0.2536     -0.4543      0.9862     -0.4709      0.4555      0.4271     -0.4704      0.9651      0.0005      1.0000     -0.0195      0.8369      0.9736      0.0786      0.3742      0.3941      0.3674     -0.0005      0.9447     -0.3092     -0.3886      1.0000      0.3038
+Ftot             -0.2766      0.2766      0.2408      0.2953      0.3038     -0.0193      0.2543      0.0159      0.2980     -0.0922     -0.0496     -0.0644      0.9529      0.9529      0.9529      0.0211      0.1047     -0.5667     -0.9596      0.2745     -0.0291      0.2766      0.9504      0.9504      0.9504     -0.0109      0.1035     -0.5652     -0.9266     -0.0423     -0.2646     -0.5478      0.2929     -0.5652      0.5912      0.4709     -0.4902      0.4264     -0.0019      0.3038      0.7022      0.2451      0.2269      0.2217      0.1616      0.0868      0.1200      0.0019      0.2980      0.1223     -0.1004      0.3038      1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION
+
+Order           1       2       3       4       5   
+lambda        0.9491  0.9142  0.8897  0.8720  0.8586
+c             0.9491  0.9142  0.8897  0.8720  0.8586
+h             0.9886  0.9588  0.9173  0.8685  0.8156
+inv           0.9891  0.9640  0.9301  0.8909  0.8490
+y             0.9763  0.9511  0.9251  0.8988  0.8725
+k             0.9993  0.9973  0.9939  0.9893  0.9836
+ne            0.9976  0.9906  0.9796  0.9652  0.9481
+atilde        0.6475  0.4348  0.3083  0.2364  0.1985
+b             0.9427  0.8894  0.8408  0.7971  0.7578
+nc            0.9997  0.9987  0.9973  0.9954  0.9931
+Hc            0.9108  0.8213  0.7372  0.6619  0.5964
+bc            0.9877  0.9766  0.9667  0.9578  0.9498
+Fc            0.9169  0.8386  0.7673  0.7043  0.6495
+vc            0.9169  0.8386  0.7673  0.7043  0.6495
+H1c           0.9169  0.8386  0.7673  0.7043  0.6495
+Gc            0.9152  0.8299  0.7496  0.6775  0.6147
+omegacbar     0.9024  0.8048  0.7133  0.6316  0.5609
+rc            0.6489  0.4142  0.2576  0.1540  0.0862
+G1c           0.9057  0.8166  0.7356  0.6642  0.6025
+ns            0.9999  0.9995  0.9989  0.9982  0.9973
+Hs            0.9118  0.8215  0.7364  0.6598  0.5927
+bs            0.9956  0.9913  0.9873  0.9837  0.9804
+Fs            0.8926  0.7876  0.6913  0.6062  0.5328
+vs            0.8926  0.7876  0.6913  0.6062  0.5328
+H1s           0.8926  0.7876  0.6913  0.6062  0.5328
+Gs            0.9174  0.8329  0.7530  0.6808  0.6175
+omegasbar     0.9012  0.8004  0.7057  0.6207  0.5467
+rs            0.6492  0.4146  0.2581  0.1544  0.0866
+G1s           0.8761  0.7544  0.6427  0.5442  0.4597
+dc            0.9851  0.9715  0.9592  0.9482  0.9385
+kb            0.9997  0.9989  0.9977  0.9963  0.9945
+rcl           0.6254  0.3825  0.2247  0.1236  0.0604
+w             0.9606  0.9298  0.9044  0.8826  0.8631
+rp            0.6492  0.4146  0.2581  0.1544  0.0866
+q             0.6753  0.4540  0.3029  0.1997  0.1291
+rk            0.9341  0.8705  0.8091  0.7498  0.6927
+rstilde       0.6492  0.4146  0.2581  0.1544  0.0866
+a             0.9500  0.9025  0.8574  0.8145  0.7738
+vk            0.0000  0.0000  0.0000  0.0000  0.0000
+gdp           0.9763  0.9511  0.9251  0.8988  0.8725
+sigma         0.9800  0.9604  0.9412  0.9224  0.9039
+utility       0.9377  0.8974  0.8718  0.8557  0.8457
+totutility    0.9835  0.9679  0.9526  0.9376  0.9227
+bsshare       0.9998  0.9997  0.9995  0.9993  0.9992
+levtot        0.9125  0.8238  0.7406  0.6661  0.6015
+levs          0.9035  0.8051  0.7126  0.6295  0.5570
+levc          0.8999  0.7998  0.7061  0.6225  0.5501
+car           0.0000  0.0000  0.0000  0.0000  0.0000
+lnb           0.9427  0.8894  0.8408  0.7971  0.7578
+zs            0.7102  0.5328  0.4251  0.3619  0.3263
+zc            0.6590  0.4466  0.3156  0.2370  0.1918
+lngdp         0.9763  0.9511  0.9251  0.8988  0.8725
+Ftot          0.9108  0.8250  0.7466  0.6773  0.6174
+Total computing time : 0h00m01s
+Note: warning(s) encountered in MATLAB/Octave code

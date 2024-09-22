@@ -1,0 +1,198 @@
+Starting Dynare (version 5.3).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 69 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 2).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0 : 1
+Equation number 2 : 0 : Lambda
+Equation number 3 : 0 : investment cost of adjustment
+Equation number 4 : 0 : extra management cost of buying equity
+Equation number 5 : 0 : cost of borrowing from foreigners
+Equation number 6 : 0 : fraction of assets diverted
+Equation number 7 : 0 : marginal cost, eq. (2)
+Equation number 8 : 0 : FOC wrt P_{i,t}, eq. (3)
+Equation number 9 : 0 : domestic output, eq. (4)
+Equation number 10 : 0 : import to capital share ratio, eq. (5)
+Equation number 11 : 0 : wage to capital share ratio, eq. (6)
+Equation number 12 : 0 : law of motion of capital, eq. (7)
+Equation number 13 : 0 : exports, eq. (8)
+Equation number 14 : 0 : 14
+Equation number 15 : 0 : 15
+Equation number 16 : 0 : 16
+Equation number 17 : 0 : R_c
+Equation number 18 : 0 : sigma_Rc
+Equation number 19 : 0 : C
+Equation number 20 : 0 : trs
+Equation number 21 : 0 : FOC wrt cbdc
+Equation number 22 : 0 : FOC wrt money
+Equation number 23 : 0 : FOC wrt crypto
+Equation number 24 : 0 : FOC wrt labour, eq. (9)
+Equation number 25 : 0 : FOC wrt savings in equity, eq. (10)
+Equation number 26 : 0 : FOC wrt savings in deposits, eq. (11)
+Equation number 27 : 0 : FOC wrt investment goods, eq. (12)
+Equation number 28 : 0 : excess return on capital over home deposits, eq. (17)
+Equation number 29 : 0 : cost advantage of crypto currency debt over home deposits, eq. (18)
+Equation number 30 : 0 : cost advantage of foreign currency debt over home deposits, eq. (18)
+Equation number 31 : 0 : marginal cost of deposit, eq. (19)
+Equation number 32 : 0.020832 : bank leverage multiple, eq. (20)
+Equation number 33 : -0.010289 : Tobin Q ratio of the bank, eq. (21)
+Equation number 34 : 0.10748 : fraction of assets financed by foreign borrowing, eq. (22)
+Equation number 35 : 0 : output, eq. (23)
+Equation number 36 : 0 : law of motion of net foreign debt, eq. (24)
+Equation number 37 : 0.83947 : aggregate net worth of banks, eq. (25)
+Equation number 38 : 0 : aggregate balance sheet of the bank, eq. (26)
+Equation number 39 : -0.88895 : aggregate balance sheet of the bank, eq. (27)
+Equation number 40 : 0 : aggregate balance sheet of the bank, eq. (28)
+Equation number 41 : 0 : aggregate balance sheet of the bank, eq. (28)
+Equation number 42 : 0 : aggregate capital, eq. (29)
+Equation number 43 : 0 : 43
+Equation number 44 : 0 : Taylor rule, eq. (30)
+Equation number 45 : 0 : productivity
+Equation number 46 : 0 : foreign income
+Equation number 47 : 0 : foreign interest rate
+Equation number 48 : 0 : Net output, pg. 21
+Equation number 49 : 0 : logY
+Equation number 50 : 0 : logPi
+Equation number 51 : 0 : logR
+Equation number 52 : 0 : logI
+Equation number 53 : 0 : logL
+Equation number 54 : 0 : logC
+Equation number 55 : 0 : logEX
+Equation number 56 : 0 : logM
+Equation number 57 : 0 : logD
+Equation number 58 : 0 : logD_star
+Equation number 59 : 0 : logN
+Equation number 60 : 0 : spread
+Equation number 61 : 0 : logDC
+Equation number 62 : 0 : logm
+Equation number 63 : 0 : leverage
+Equation number 64 : 0 : TB
+Equation number 65 : 0 : logcryp
+Equation number 66 : 0 : utility
+Equation number 67 : 0 : Welf
+Equation number 68 : 0 : Recursive_natural_welfare_equivalent
+Equation number 69 : 0 : Welfare_gap
+
+
+
+STEADY-STATE RESULTS:
+
+Y                                    		 2.86138
+C                                    		 1.94489
+Pi                                   		 1
+N                                    		 3.6833
+DC                                   		 2.05751
+cryp                                 		 0.918001
+m                                    		 2.02547
+D_star                               		 4.2711
+Welf                                 		 -3.26161
+Recursive_natural_welfare_equivalent 		 -3.26161
+Welfare_gap                          		 0
+mc                                   		 0.888889
+Z                                    		 0.0397052
+w                                    		 5.04516
+R                                    		 1.015
+epsilon                              		 1.04845
+Q                                    		 1
+M                                    		 0.436666
+L                                    		 0.262151
+I                                    		 0.38435
+K                                    		 19.2175
+EX                                   		 0.50822
+K_b                                  		 14.6954
+K_h                                  		 4.52211
+D                                    		 5.62953
+x                                    		 0.304722
+psi                                  		 1.59989
+phi                                  		 3.98974
+upsilon                              		 1.56389
+mu                                   		 0.00724965
+mu_star                              		 0.0057705
+A                                    		 1
+R_star                               		 1.01125
+Y_star                               		 0.484737
+Phi                                  		 0
+Theta                                		 0.401
+chi_h                                		 0.0104814
+chi_b                                		 0.0134408
+Ynet                                 		 2.37964
+P_c                                  		 1
+R_dc                                 		 1
+theta_c                              		 1
+R_c                                  		 1
+Lambda                               		 0.985222
+gam                                  		 0.0315772
+trs                                  		 0.496077
+Lambda1                              		 1.0178
+sigma_Rc                             		 0
+mu_cryp                              		 0.0231117
+x_c                                  		 0.0624686
+DE                                   		 1
+utility                              		 -0.0482012
+logY                                 		 1.0513
+logPi                                		 0
+logR                                 		 0.0148886
+logI                                 		 -0.956202
+logL                                 		 -1.33884
+logC                                 		 0.665204
+logEX                                		 -0.676841
+logM                                 		 -0.828586
+logD                                 		 1.72803
+logD_star                            		 1.45187
+logN                                 		 1.30381
+spread                               		 0.00470518
+logDC                                		 0.721498
+logm                                 		 0.705804
+leverage                             		 1.38373
+TB                                   		 0.0715536
+logcryp                              		 -0.0855572
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+       1.053e-16        1.053e-16                0
+        1.27e-15         1.27e-15                0
+       6.435e-14       -6.435e-14                0
+       1.235e-08        2.679e-14        1.235e-08
+       1.235e-08        2.679e-14       -1.235e-08
+          0.1223           0.1068          0.05961
+          0.1223           0.1068         -0.05961
+             0.9              0.9                0
+             0.9              0.9                0
+          0.9361           0.9361                0
+            0.95             0.95                0
+            0.95             0.95                0
+            0.95             0.95                0
+          0.9764           0.9764                0
+          0.9834           0.9834                0
+           1.015            1.015                0
+           1.015            1.015                0
+           1.025            1.025                0
+           1.041            1.041                0
+           1.072            1.072                0
+           1.908            1.723           0.8187
+           1.908            1.723          -0.8187
+             Inf              Inf                0
+             Inf              Inf                0
+
+
+There are 9 eigenvalue(s) larger than 1 in modulus 
+for 9 forward-looking variable(s)
+
+The rank condition is verified.
+
+lambda_unconditional_technology =
+  -5.5047e-14
+Total computing time : 0h00m01s

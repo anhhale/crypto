@@ -1,0 +1,125 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+Found 67 equation(s).
+Evaluating expressions...done
+Computing static model derivatives:
+ - order 1
+Computing dynamic model derivatives:
+ - order 1
+ - order 2
+Processing outputs ...
+done
+Preprocessing completed.
+
+STEADY-STATE RESULTS:
+
+Y           		 3.06773
+C           		 2.07226
+Pi          		 1
+N           		 3.99504
+DC          		 2.19233
+cryp        		 0.920496
+m           		 2.15805
+D_star      		 5.86355
+totutility1 		 0.546679
+mc          		 0.888889
+Z           		 0.0395253
+w           		 5.13376
+R           		 1.015
+epsilon     		 1.0046
+Q           		 1
+M           		 0.488591
+L           		 0.276205
+I           		 0.413943
+K           		 20.6972
+EX          		 0.549742
+K_b         		 16.0131
+K_h         		 4.68409
+D           		 5.22838
+x           		 0.367856
+psi         		 1.6073
+phi         		 4.00824
+upsilon     		 1.57087
+mu          		 0.00700357
+mu_star     		 0.00773826
+A           		 1
+R_star      		 1.01
+Y_star      		 0.547227
+Phi         		 0
+Theta       		 0.401
+chi_h       		 0.0104418
+chi_b       		 0.0213435
+Ynet        		 2.54511
+P_c         		 1
+R_dc        		 1
+theta_c     		 1
+R_c         		 1
+Lambda      		 0.985222
+gam         		 0.0298293
+trs         		 0.496059
+Lambda1     		 0.961467
+sigma_Rc    		 0
+mu_cryp     		 0.0232148
+x_c         		 0.0574841
+DE          		 1
+utility     		 0.008079
+logY        		 1.12094
+logPi       		 0
+logR        		 0.0148886
+logI        		 -0.882027
+logL        		 -1.28661
+logC        		 0.72864
+logEX       		 -0.598307
+logM        		 -0.716229
+logD        		 1.6541
+logD_star   		 1.76876
+logN        		 1.38505
+spread      		 0.00452529
+logDC       		 0.784967
+logm        		 0.769204
+leverage    		 1.38835
+TB          		 0.0611503
+logcryp     		 -0.0828423
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+       1.213e-16        1.213e-16                0
+       2.572e-16        2.572e-16                0
+       3.618e-16        3.618e-16                0
+       1.832e-08        1.832e-08                0
+       1.832e-08       -1.832e-08                0
+          0.1383           0.1383                0
+          0.3278           0.3278                0
+             0.9              0.9                0
+             0.9              0.9                0
+          0.9351           0.9351                0
+            0.95             0.95                0
+            0.95             0.95                0
+            0.95             0.95                0
+          0.9763           0.9763                0
+          0.9836           0.9836                0
+           1.015            1.015                0
+           1.024            1.024                0
+           1.041            1.041                0
+           1.071            1.071                0
+            1.18             1.18                0
+           1.573            1.573                0
+       4.437e+16        4.437e+16                0
+             Inf              Inf                0
+
+
+There are 8 eigenvalue(s) larger than 1 in modulus 
+for 8 forward-looking variable(s)
+
+The rank condition is verified.
+
+[Warning: Aggregate variance and sum of variances by shocks differ by more than 0.01 %] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('th_autocovariances', 'C:\dynare\4.5.7\matlab\th_autocovariances.m', 206)" style="font-weight:bold">th_autocovariances</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\th_autocovariances.m',206,0)">line 206</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('disp_th_moments', 'C:\dynare\4.5.7\matlab\disp_th_moments.m', 39)" style="font-weight:bold">disp_th_moments</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\disp_th_moments.m',39,0)">line 39</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('stoch_simul', 'C:\dynare\4.5.7\matlab\stoch_simul.m', 178)" style="font-weight:bold">stoch_simul</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\stoch_simul.m',178,0)">line 178</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cdbc_flex_optim', 'D:\crypto2\Copy_of_cdbc_flex\cdbc_flex_optim.m', 738)" style="font-weight:bold">cdbc_flex_optim</a> (<a href="matlab: opentoline('D:\crypto2\Copy_of_cdbc_flex\cdbc_flex_optim.m',738,0)">line 738</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('dynare', 'C:\dynare\4.5.7\matlab\dynare.m', 235)" style="font-weight:bold">dynare</a> (<a href="matlab: opentoline('C:\dynare\4.5.7\matlab\dynare.m',235,0)">line 235</a>)
+In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('display_opt', 'D:\crypto2\Copy_of_cdbc_flex\display_opt.m', 10)" style="font-weight:bold">display_opt</a> (<a href="matlab: opentoline('D:\crypto2\Copy_of_cdbc_flex\display_opt.m',10,0)">line 10</a>)] 
+Total computing time : 0h00m01s
+Note: warning(s) encountered in MATLAB/Octave code

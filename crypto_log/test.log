@@ -1,0 +1,5 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+ERROR: test.mod: line 322, cols 1-19: Omega has incorrect type
+

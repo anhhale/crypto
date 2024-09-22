@@ -1,0 +1,6 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+ERROR: ABK2016.mod: line 192, cols 26-30: Unknown symbol: eps_e
+ERROR: ABK2016.mod: line 192, cols 32-34: Unknown symbol: v_e
+

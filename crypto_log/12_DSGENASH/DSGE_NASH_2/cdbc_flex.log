@@ -1,0 +1,5 @@
+Starting Dynare (version 4.5.7).
+Starting preprocessing of the model file ...
+ERROR: cdbc_flex.mod: line 376, cols 1-36: Unknown symbol: Recursive_natural_welfare_equivalent
+ERROR: cdbc_flex.mod: line 376, cols 59-72: Unknown symbol: lambda_utility
+ERROR: cdbc_flex.mod: line 376, cols 112-151: Unknown symbol: Recursive_natural_welfare_equivalent

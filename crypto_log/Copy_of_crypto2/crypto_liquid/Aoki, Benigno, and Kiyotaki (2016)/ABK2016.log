@@ -1,0 +1,243 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 33 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+STEADY-STATE RESULTS:
+
+mc      		 0.9
+Pi      		 1
+Z       		 0.0404033
+w       		 5.21834
+R       		 1.015
+epsilon 		 0.989824
+Q       		 1
+Y       		 3.23452
+M       		 0.52938
+L       		 0.290084
+C       		 2.21425
+I       		 0.432302
+K       		 21.6151
+EX      		 0.561396
+N       		 3.58793
+K_b     		 15.7742
+K_h     		 5.84095
+D       		 8.21067
+D_star  		 4.02757
+x       		 0.252729
+psi     		 1.75418
+phi     		 4.39645
+upsilon 		 1.70893
+mu      		 0.0090974
+mu_star 		 0.00945854
+A       		 1
+R_star  		 1.00938
+Y_star  		 0.567167
+Phi     		 0
+Theta   		 0.399
+chi_h   		 0.015547
+chi_b   		 0.0110324
+Ynet    		 2.68395
+
+EIGENVALUES:
+         Modulus             Real        Imaginary
+
+       4.135e-17        4.135e-17                0
+          0.4581           0.4581                0
+             0.9              0.9                0
+             0.9              0.9                0
+             0.9              0.9                0
+          0.9431           0.9431                0
+          0.9764           0.9764                0
+          0.9833           0.9833                0
+           1.025            1.025                0
+            1.04             1.04                0
+           1.082            1.082                0
+           1.108            1.108                0
+           1.537            1.537                0
+       2.863e+16        2.863e+16                0
+       4.553e+16       -4.553e+16                0
+             Inf              Inf                0
+
+
+There are 8 eigenvalue(s) larger than 1 in modulus 
+for 8 forward-looking variable(s)
+
+The rank condition is verified.
+
+MODEL_DIAGNOSTICS:  The Jacobian of the static model is singular
+MODEL_DIAGNOSTICS:  there is 2 colinear relationships between the variables and the equations
+Relation 1
+Colinear variables:
+Z
+w
+epsilon
+Y
+M
+L
+C
+I
+K
+EX
+N
+K_b
+K_h
+D
+D_star
+x
+psi
+phi
+upsilon
+mu
+mu_star
+R_star
+Y_star
+chi_h
+chi_b
+Ynet
+Relation 2
+Colinear variables:
+Z
+w
+epsilon
+Y
+M
+L
+C
+I
+K
+EX
+N
+K_b
+K_h
+D
+D_star
+x
+psi
+phi
+upsilon
+mu
+mu_star
+R_star
+Y_star
+chi_h
+chi_b
+Ynet
+Relation 1
+Colinear equations
+    32
+
+Relation 2
+Colinear equations
+    31
+
+MODEL_DIAGNOSTICS:  The presence of a singularity problem typically indicates that there is one
+MODEL_DIAGNOSTICS:  redundant equation entered in the model block, while another non-redundant equation
+MODEL_DIAGNOSTICS:  is missing. The problem often derives from Walras Law.
+
+MODEL SUMMARY
+
+  Number of variables:         33
+  Number of stochastic shocks: 4
+  Number of state variables:   8
+  Number of jumpers:           8
+  Number of static variables:  17
+
+
+MATRIX OF COVARIANCE OF EXOGENOUS SHOCKS
+Variables               varepsilon_R      varepsilon_A  varepsilon_Rstar  varepsilon_Ystar
+varepsilon_R                0.000000          0.000000          0.000000          0.000000
+varepsilon_A                0.000000          0.000000          0.000000          0.000000
+varepsilon_Rstar            0.000000          0.000000          0.000006          0.000000
+varepsilon_Ystar            0.000000          0.000000          0.000000          0.000000
+
+POLICY AND TRANSITION FUNCTIONS
+                                Ynet               C               I              EX               M               D          D_star         epsilon               Q               N              Pi               R
+Constant                    2.683952        2.214247        0.432302        0.561396        0.529380        8.210670        4.027574        0.989824        1.000000        3.587933        1.000000        1.015000
+R(-1)                      -9.593974      -10.733616       -1.865763       -1.008422       -3.104178      -72.446416       -3.104178       -1.777997       -2.877251      -56.372380       -1.126266        0.462120
+K(-1)                       0.034846        0.037816       -0.011807        0.013016       -0.008053       -0.294606       -0.008053        0.022950       -0.018208       -0.399121       -0.002871       -0.000861
+K_b(-1)                     0.021055        0.008171        0.017365       -0.004330        0.004236        1.694349        0.004236       -0.007634        0.026779        1.379323       -0.000630       -0.000189
+D(-1)                      -0.020842       -0.008088       -0.017189        0.004286       -0.004193       -1.677170       -0.004193        0.007556       -0.026508       -1.365337        0.000623        0.000187
+D_star(-1)                 -0.059404       -0.059722       -0.029896        0.028734       -0.028591       -3.270062        0.980791        0.050662       -0.046104       -1.777640        0.003835        0.001151
+A(-1)                       2.199019        1.004497        0.588084        0.524367       -0.577377       12.043322       -0.577377        0.924537        0.906903        7.182111       -0.310625       -0.093187
+R_star(-1)                 -0.296012       -0.322050       -2.005309        3.826742       -1.794652     -123.360303        2.232921        6.747113       -3.092450      -64.375797        1.053041        0.315912
+Y_star(-1)                  1.067052        0.685580        0.042053        0.643413        0.540438        5.089231       -0.359562       -0.436253        0.064852        3.445857        0.061592        0.018478
+varepsilon_R              -11.781721      -13.335233       -2.158395       -1.303863       -3.837829      -73.599043       -3.837829       -2.298904       -3.328528      -56.659645       -1.414135        0.575760
+varepsilon_A                2.443355        1.116108        0.653427        0.582630       -0.641530       13.381469       -0.641530        1.027264        1.007670        7.980123       -0.345139       -0.103542
+varepsilon_Rstar           -0.065537       -0.093055       -2.095578        4.124544       -1.867299     -122.569228       -1.867299        7.272183       -3.231656      -63.647522        1.153042        0.345913
+varepsilon_Ystar            1.185614        0.761756        0.046726        0.714904        0.600486        5.654702       -0.399514       -0.484726        0.072057        3.828729        0.068435        0.020531
+
+
+THEORETICAL MOMENTS
+VARIABLE         MEAN  STD. DEV.   VARIANCE
+Ynet           2.6840     0.0466     0.0022
+C              2.2142     0.0519     0.0027
+I              0.4323     0.0164     0.0003
+EX             0.5614     0.0197     0.0004
+M              0.5294     0.0209     0.0004
+D              8.2107     0.9089     0.8261
+D_star         4.0276     0.0285     0.0008
+epsilon        0.9898     0.0348     0.0012
+Q              1.0000     0.0253     0.0006
+N              3.5879     0.4701     0.2210
+Pi             1.0000     0.0038     0.0000
+R              1.0150     0.0038     0.0000
+
+
+
+VARIANCE DECOMPOSITION (in percent)
+               varepsilon_R      varepsilon_A  varepsilon_Rstar  varepsilon_Ystar
+Ynet                   0.00              0.00            100.00              0.00
+C                      0.00              0.00            100.00              0.00
+I                      0.00              0.00            100.00              0.00
+EX                     0.00              0.00            100.00              0.00
+M                      0.00              0.00            100.00              0.00
+D                      0.00              0.00            100.00              0.00
+D_star                 0.00              0.00            100.00              0.00
+epsilon                0.00              0.00            100.00              0.00
+Q                      0.00              0.00            100.00              0.00
+N                      0.00              0.00            100.00              0.00
+Pi                     0.00              0.00            100.00              0.00
+R                      0.00              0.00            100.00              0.00
+
+
+
+MATRIX OF CORRELATIONS
+Variables       Ynet        C        I       EX        M        D   D_star  epsilon        Q        N       Pi        R
+Ynet          1.0000   0.9990   0.8341  -0.6136   0.8761   0.9078  -0.7119  -0.6136   0.8341   0.9028  -0.5156  -0.9226
+C             0.9990   1.0000   0.8528  -0.6383   0.8942   0.9167  -0.6848  -0.6383   0.8528   0.9123  -0.5266  -0.9352
+I             0.8341   0.8528   1.0000  -0.9433   0.9935   0.9730  -0.2605  -0.9433   1.0000   0.9765  -0.8108  -0.9821
+EX           -0.6136  -0.6383  -0.9433   1.0000  -0.9032  -0.8784  -0.0029   1.0000  -0.9433  -0.8841   0.9101   0.8689
+M             0.8761   0.8942   0.9935  -0.9032   1.0000   0.9706  -0.3213  -0.9032   0.9935   0.9733  -0.7448  -0.9915
+D             0.9078   0.9167   0.9730  -0.8784   0.9706   1.0000  -0.4466  -0.8784   0.9730   0.9994  -0.8139  -0.9894
+D_star       -0.7119  -0.6848  -0.2605  -0.0029  -0.3213  -0.4466   1.0000  -0.0029  -0.2605  -0.4251   0.0865   0.4290
+epsilon      -0.6136  -0.6383  -0.9433   1.0000  -0.9032  -0.8784  -0.0029   1.0000  -0.9433  -0.8841   0.9101   0.8689
+Q             0.8341   0.8528   1.0000  -0.9433   0.9935   0.9730  -0.2605  -0.9433   1.0000   0.9765  -0.8108  -0.9821
+N             0.9028   0.9123   0.9765  -0.8841   0.9733   0.9994  -0.4251  -0.8841   0.9765   1.0000  -0.8136  -0.9896
+Pi           -0.5156  -0.5266  -0.8108   0.9101  -0.7448  -0.8139   0.0865   0.9101  -0.8108  -0.8136   1.0000   0.7469
+R            -0.9226  -0.9352  -0.9821   0.8689  -0.9915  -0.9894   0.4290   0.8689  -0.9821  -0.9896   0.7469   1.0000
+
+
+
+COEFFICIENTS OF AUTOCORRELATION
+Order           1       2       3       4       5
+Ynet       0.9816  0.9479  0.9091  0.8698  0.8318
+C          0.9795  0.9420  0.8990  0.8556  0.8140
+I          0.9456  0.8739  0.7988  0.7262  0.6584
+EX         0.8518  0.7383  0.6453  0.5659  0.4964
+M          0.9666  0.9019  0.8279  0.7538  0.6838
+D          0.9414  0.8822  0.8256  0.7725  0.7233
+D_star     0.9777  0.9639  0.9537  0.9450  0.9369
+epsilon    0.8518  0.7383  0.6453  0.5659  0.4964
+Q          0.9456  0.8739  0.7988  0.7262  0.6584
+N          0.9409  0.8823  0.8264  0.7740  0.7251
+Pi         0.6421  0.4636  0.3686  0.3131  0.2769
+R          0.9680  0.9110  0.8468  0.7828  0.7223
+Total computing time : 0h00m03s

@@ -1,0 +1,63 @@
+Starting Dynare (version 5.1).
+Calling Dynare with arguments: none
+Starting preprocessing of the model file ...
+Found 44 equation(s).
+Evaluating expressions...done
+Computing static model derivatives (order 1).
+Computing dynamic model derivatives (order 1).
+Processing outputs ...
+done
+Preprocessing completed.
+
+
+
+
+
+Residuals of the static equations:
+
+Equation number 1 : 0 : Lambda
+Equation number 2 : 0 : Lambda1
+Equation number 3 : 0 : investment cost of adjustment
+Equation number 4 : 0 : extra management cost of buying equity
+Equation number 5 : 0 : cost of borrowing from foreigners
+Equation number 6 : 0 : fraction of assets diverted
+Equation number 7 : 0 : marginal cost, eq. (2)
+Equation number 8 : 0 : FOC wrt P_{i,t}, eq. (3)
+Equation number 9 : 0 : domestic output, eq. (4)
+Equation number 10 : 0 : import to capital share ratio, eq. (5)
+Equation number 11 : 0 : wage to capital share ratio, eq. (6)
+Equation number 12 : 0 : law of motion of capital, eq. (7)
+Equation number 13 : 0 : exports, eq. (8)
+Equation number 14 : 0 : 14
+Equation number 15 : 0 : c_sup
+Equation number 16 : 0 : R_dc
+Equation number 17 : 0 : R_c
+Equation number 18 : 0 : FOC wrt cbdc
+Equation number 19 : 0 : FOC wrt money
+Equation number 20 : 0 : FOC wrt crypto
+Equation number 21 : 0 : FOC wrt labour, eq. (9)
+Equation number 22 : 0 : FOC wrt savings in equity, eq. (10)
+Equation number 23 : 0 : FOC wrt savings in deposits, eq. (11)
+Equation number 24 : 0 : FOC wrt investment goods, eq. (12)
+Equation number 25 : 0 : excess return on capital over home deposits, eq. (17)
+Equation number 26 : 0 : cost advantage of foreign currency debt over home deposits, eq. (18)
+Equation number 27 : 0 : marginal cost of deposit, eq. (19)
+Equation number 28 : 0.0019716 : bank leverage multiple, eq. (20)
+Equation number 29 : 0.00051746 : Tobin Q ratio of the bank, eq. (21)
+Equation number 30 : 0.083278 : fraction of assets financed by foreign borrowing, eq. (22)
+Equation number 31 : -0.0099716 : output, eq. (23)
+Equation number 32 : 0 : law of motion of net foreign debt, eq. (24)
+Equation number 33 : -0.021765 : aggregate net worth of banks, eq. (25)
+Equation number 34 : 0 : aggregate balance sheet of the bank, eq. (26)
+Equation number 35 : 0.0316 : aggregate balance sheet of the bank, eq. (27)
+Equation number 36 : 0.11197 : aggregate balance sheet of the bank, eq. (28)
+Equation number 37 : 0 : aggregate capital, eq. (29)
+Equation number 38 : 0 : Taylor rule, eq. (30)
+Equation number 39 : 0 : productivity
+Equation number 40 : 0 : 40
+Equation number 41 : 0 : 41
+Equation number 42 : 0 : foreign income
+Equation number 43 : 0 : foreign interest rate
+Equation number 44 : 0 : Net output, pg. 21
+
+
